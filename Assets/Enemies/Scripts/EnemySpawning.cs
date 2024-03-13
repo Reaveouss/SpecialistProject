@@ -33,7 +33,6 @@ public class EnemySpawning : MonoBehaviour
             Vector2 randomPos = Random.insideUnitCircle * spawnRadius;
             Vector3 spawnPos = Player.transform.position + new Vector3(randomPos.x, randomPos.y, 0);
             int EnemySelect = Random.Range(0, 3) + 1;
-            Debug.Log(EnemySelect);
             if (EnemySelect == 1)
             {
                 Instantiate(Enemy1);
