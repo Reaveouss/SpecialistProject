@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: a7efeaeefcd2b9944a107745994d4b9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3379132993820532035
+    second: spaceShooter2_spritesheet_2X_0
+  - first:
+      213: -5910287855394996211
+    second: spaceShooter2_spritesheet_2X_1
+  - first:
+      213: -4849014219572865507
+    second: spaceShooter2_spritesheet_2X_2
+  - first:
+      213: 4107170570318989368
+    second: spaceShooter2_spritesheet_2X_3
+  - first:
+      213: -5414236445767620114
+    second: spaceShooter2_spritesheet_2X_4
+  - first:
+      213: -1906399547301107165
+    second: spaceShooter2_spritesheet_2X_5
+  - first:
+      213: 774876434905109579
+    second: spaceShooter2_spritesheet_2X_6
+  - first:
+      213: -8410335399633580802
+    second: spaceShooter2_spritesheet_2X_7
+  - first:
+      213: -5725898606582682320
+    second: spaceShooter2_spritesheet_2X_8
+  - first:
+      213: -5104113530630211204
+    second: spaceShooter2_spritesheet_2X_9
+  - first:
+      213: -7334219549506714498
+    second: spaceShooter2_spritesheet_2X_10
+  - first:
+      213: -5201521332072389568
+    second: spaceShooter2_spritesheet_2X_11
+  - first:
+      213: -690076529466329632
+    second: spaceShooter2_spritesheet_2X_12
+  - first:
+      213: -5954895231044580620
+    second: spaceShooter2_spritesheet_2X_13
+  - first:
+      213: -7477373674694587380
+    second: spaceShooter2_spritesheet_2X_14
+  - first:
+      213: -7679454068696877228
+    second: spaceShooter2_spritesheet_2X_15
+  - first:
+      213: 2891360131746732304
+    second: spaceShooter2_spritesheet_2X_16
+  - first:
+      213: -1232960011390184091
+    second: spaceShooter2_spritesheet_2X_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spaceShooter2_spritesheet_2X_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1463
+        width: 1141
+        height: 801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d9971fd8715ee20800000000000000
+      internalID: 3379132993820532035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShooter2_spritesheet_2X_1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1468
+        width: 833
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0040e272807afda0800000000000000
+      internalID: -5910287855394996211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShooter2_spritesheet_2X_2
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 0
+        width: 1172
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d169a8b2247d4bcb0800000000000000
+      internalID: -4849014219572865507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShooter2_spritesheet_2X_3
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 612
+        width: 897
+        height: 1652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8384dcb7fd99ff830800000000000000
+      internalID: 4107170570318989368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShooter2_spritesheet_2X_4
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 0
+        width: 241
+        height: 1658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee92c0073a4ccd4b0800000000000000
+      internalID: -5414236445767620114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShooter2_spritesheet_2X_5
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 1557
+        width: 59
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ae62756bb1b85e0800000000000000
+      internalID: -1906399547301107165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShooter2_spritesheet_2X_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1021
+        width: 783
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b441757130ae0ca00800000000000000
+      internalID: 774876434905109579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShooter2_spritesheet_2X_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 599
+        width: 850
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc82fe838c784b80800000000000000
+      internalID: -8410335399633580802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShooter2_spritesheet_2X_8
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 936
+        width: 341
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d2cbeed858980b0800000000000000
+      internalID: -5725898606582682320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShooter2_spritesheet_2X_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 428
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79758169cb8a29b0800000000000000
+      internalID: -5104113530630211204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShooter2_spritesheet_2X_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 164
+        width: 425
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e744de69d2e973a90800000000000000
+      internalID: -7334219549506714498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShooter2_spritesheet_2X_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 601
+        width: 421
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044653648eb70d7b0800000000000000
+      internalID: -5201521332072389568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShooter2_spritesheet_2X_12
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 490
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e533597d0b5c66f0800000000000000
+      internalID: -690076529466329632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShooter2_spritesheet_2X_13
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 322
+        width: 80
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa8be67656fb5da0800000000000000
+      internalID: -5954895231044580620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShooter2_spritesheet_2X_14
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 178
+        width: 75
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cc8fa72480b3890800000000000000
+      internalID: -7477373674694587380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShooter2_spritesheet_2X_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 851
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457f46646391d6590800000000000000
+      internalID: -7679454068696877228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShooter2_spritesheet_2X_16
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 71
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0199d7288bc202820800000000000000
+      internalID: 2891360131746732304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceShooter2_spritesheet_2X_17
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 26
+        width: 73
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56593d2f665a3eee0800000000000000
+      internalID: -1232960011390184091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

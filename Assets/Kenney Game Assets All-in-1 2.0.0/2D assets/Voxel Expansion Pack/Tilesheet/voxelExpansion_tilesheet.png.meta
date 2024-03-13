@@ -1,0 +1,954 @@
+fileFormatVersion: 2
+guid: 46c2b675aeb20634781aba1783250b29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8599355252186170010
+    second: voxelExpansion_tilesheet_0
+  - first:
+      213: 5398831380502446516
+    second: voxelExpansion_tilesheet_1
+  - first:
+      213: -3569581140580427319
+    second: voxelExpansion_tilesheet_2
+  - first:
+      213: 2140616054894021954
+    second: voxelExpansion_tilesheet_3
+  - first:
+      213: -1197850996582653819
+    second: voxelExpansion_tilesheet_4
+  - first:
+      213: 7829413317563987249
+    second: voxelExpansion_tilesheet_5
+  - first:
+      213: -251867970202226558
+    second: voxelExpansion_tilesheet_6
+  - first:
+      213: -7623225738135487
+    second: voxelExpansion_tilesheet_7
+  - first:
+      213: -5714523493779874699
+    second: voxelExpansion_tilesheet_8
+  - first:
+      213: 7826475849439734822
+    second: voxelExpansion_tilesheet_9
+  - first:
+      213: 6293595967914482603
+    second: voxelExpansion_tilesheet_10
+  - first:
+      213: -8441917028719072404
+    second: voxelExpansion_tilesheet_11
+  - first:
+      213: 880112577829924127
+    second: voxelExpansion_tilesheet_12
+  - first:
+      213: -6623693383929570848
+    second: voxelExpansion_tilesheet_13
+  - first:
+      213: -7223915274935057301
+    second: voxelExpansion_tilesheet_14
+  - first:
+      213: 8825285653276333259
+    second: voxelExpansion_tilesheet_15
+  - first:
+      213: -3034468730200288506
+    second: voxelExpansion_tilesheet_16
+  - first:
+      213: -6473685379506254833
+    second: voxelExpansion_tilesheet_17
+  - first:
+      213: 3537121693650439048
+    second: voxelExpansion_tilesheet_18
+  - first:
+      213: 2258288068971079556
+    second: voxelExpansion_tilesheet_19
+  - first:
+      213: 8181146933708397139
+    second: voxelExpansion_tilesheet_20
+  - first:
+      213: 2084631377456796859
+    second: voxelExpansion_tilesheet_21
+  - first:
+      213: 5180721264809258580
+    second: voxelExpansion_tilesheet_22
+  - first:
+      213: 7656331899246917685
+    second: voxelExpansion_tilesheet_23
+  - first:
+      213: -6978095681304764444
+    second: voxelExpansion_tilesheet_24
+  - first:
+      213: -2398446494230246703
+    second: voxelExpansion_tilesheet_25
+  - first:
+      213: -3629122209164507786
+    second: voxelExpansion_tilesheet_26
+  - first:
+      213: 430701313319033124
+    second: voxelExpansion_tilesheet_27
+  - first:
+      213: 8132984598121790509
+    second: voxelExpansion_tilesheet_28
+  - first:
+      213: -8252841150228858022
+    second: voxelExpansion_tilesheet_29
+  - first:
+      213: 6854796186663659643
+    second: voxelExpansion_tilesheet_30
+  - first:
+      213: 8956579502089547960
+    second: voxelExpansion_tilesheet_31
+  - first:
+      213: -7337954572067256142
+    second: voxelExpansion_tilesheet_32
+  - first:
+      213: -857579889674109155
+    second: voxelExpansion_tilesheet_33
+  - first:
+      213: 5798529632700784033
+    second: voxelExpansion_tilesheet_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 257
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9242ff5a0c075770800000000000000
+      internalID: 8599355252186170010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 257
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1841d49808cea40800000000000000
+      internalID: 5398831380502446516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 260
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c915c67ddc467ec0800000000000000
+      internalID: -3569581140580427319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 265
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dc470e5fef4bd10800000000000000
+      internalID: 2140616054894021954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 266
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580e7d67dd0606fe0800000000000000
+      internalID: -1197850996582653819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 266
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1353d192ee9a7ac60800000000000000
+      internalID: 7829413317563987249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 266
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2803cc16a6f218cf0800000000000000
+      internalID: -251867970202226558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_7
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 385
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148f5d177bae4eff0800000000000000
+      internalID: -7623225738135487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 205
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c50a4c82fe1b0b0800000000000000
+      internalID: -5714523493779874699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 205
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c6701915a3d9c60800000000000000
+      internalID: 7826475849439734822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 205
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab9f5b1038575750800000000000000
+      internalID: 6293595967914482603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 210
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6be0e7803948da80800000000000000
+      internalID: -8441917028719072404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 206
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1de7ebf9b9c63c00800000000000000
+      internalID: 880112577829924127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 205
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9d5cd06f9e314a0800000000000000
+      internalID: -6623693383929570848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_14
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 206
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b644af5d45f7fbb90800000000000000
+      internalID: -7223915274935057301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 132
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc413e41b86b97a70800000000000000
+      internalID: 8825285653276333259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 136
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603916664c663e5d0800000000000000
+      internalID: -3034468730200288506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 132
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cc3e64279d826a0800000000000000
+      internalID: -6473685379506254833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_18
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 133
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bcc5d9071661130800000000000000
+      internalID: 3537121693650439048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 134
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4872687a80d075f10800000000000000
+      internalID: 2258288068971079556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_20
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 133
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a17f66ac5498170800000000000000
+      internalID: 8181146933708397139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_21
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 131
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb412f461391eec10800000000000000
+      internalID: 2084631377456796859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 56
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ea44daa8e95e740800000000000000
+      internalID: 5180721264809258580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 40
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538ba112c41c04a60800000000000000
+      internalID: 7656331899246917685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_24
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 63
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef542b03f2d82f90800000000000000
+      internalID: -6978095681304764444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 28
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da00aafe9107bed0800000000000000
+      internalID: -2398446494230246703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_26
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 75
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675c4442494c2adc0800000000000000
+      internalID: -3629122209164507786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_27
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 80
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429dca000982af500800000000000000
+      internalID: 430701313319033124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_28
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 77
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cb5cec66a2ed070800000000000000
+      internalID: 8132984598121790509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_29
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bf1e403b4087d80800000000000000
+      internalID: -8252841150228858022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_30
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b782ac140d0212f50800000000000000
+      internalID: 6854796186663659643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_31
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0b7986a992c4c70800000000000000
+      internalID: 8956579502089547960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_32
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b84af1e1395a2a90800000000000000
+      internalID: -7337954572067256142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_33
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fb47d42a34914f0800000000000000
+      internalID: -857579889674109155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelExpansion_tilesheet_34
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1add4b0aaf3887050800000000000000
+      internalID: 5798529632700784033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

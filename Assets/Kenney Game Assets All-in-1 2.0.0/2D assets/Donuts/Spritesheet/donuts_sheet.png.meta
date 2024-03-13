@@ -1,0 +1,2778 @@
+fileFormatVersion: 2
+guid: cf61dbed325a0814bbe9871440abaaf7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4427907214105673835
+    second: donuts_sheet_0
+  - first:
+      213: 2247580427277373393
+    second: donuts_sheet_1
+  - first:
+      213: 979429007489619180
+    second: donuts_sheet_2
+  - first:
+      213: -5617269512405989748
+    second: donuts_sheet_3
+  - first:
+      213: 5506673741102944287
+    second: donuts_sheet_4
+  - first:
+      213: 3898715848587195636
+    second: donuts_sheet_5
+  - first:
+      213: 4818065254084262330
+    second: donuts_sheet_6
+  - first:
+      213: -5626391957411537466
+    second: donuts_sheet_7
+  - first:
+      213: 5112215823137848599
+    second: donuts_sheet_8
+  - first:
+      213: -8476466935826445169
+    second: donuts_sheet_9
+  - first:
+      213: 1762520023250869774
+    second: donuts_sheet_10
+  - first:
+      213: -8385460094327277404
+    second: donuts_sheet_11
+  - first:
+      213: 2376149886144737230
+    second: donuts_sheet_12
+  - first:
+      213: 6650845608085209780
+    second: donuts_sheet_13
+  - first:
+      213: -2533024406259549260
+    second: donuts_sheet_14
+  - first:
+      213: 9166796492806878861
+    second: donuts_sheet_15
+  - first:
+      213: 6606903778021334056
+    second: donuts_sheet_16
+  - first:
+      213: -5497573931634646831
+    second: donuts_sheet_17
+  - first:
+      213: 2176219105323855583
+    second: donuts_sheet_18
+  - first:
+      213: 5635405183762022046
+    second: donuts_sheet_19
+  - first:
+      213: 5187339030907627116
+    second: donuts_sheet_20
+  - first:
+      213: -3727673700303785750
+    second: donuts_sheet_21
+  - first:
+      213: 1343642589086062657
+    second: donuts_sheet_22
+  - first:
+      213: 7432855201205440570
+    second: donuts_sheet_23
+  - first:
+      213: -7911128447586675555
+    second: donuts_sheet_24
+  - first:
+      213: -1204042962974275673
+    second: donuts_sheet_25
+  - first:
+      213: 4392089176521683404
+    second: donuts_sheet_26
+  - first:
+      213: 2192477489850568813
+    second: donuts_sheet_27
+  - first:
+      213: -8602895036546334547
+    second: donuts_sheet_28
+  - first:
+      213: -3198440131194278501
+    second: donuts_sheet_29
+  - first:
+      213: 6648917536945044895
+    second: donuts_sheet_30
+  - first:
+      213: -6077566931468896733
+    second: donuts_sheet_31
+  - first:
+      213: 7174538081171337211
+    second: donuts_sheet_32
+  - first:
+      213: -3037369736773398944
+    second: donuts_sheet_33
+  - first:
+      213: -3671539485027943876
+    second: donuts_sheet_34
+  - first:
+      213: -5757621994887069794
+    second: donuts_sheet_35
+  - first:
+      213: 2506748281762076646
+    second: donuts_sheet_36
+  - first:
+      213: 2245506795818045641
+    second: donuts_sheet_37
+  - first:
+      213: -5829081531425508954
+    second: donuts_sheet_38
+  - first:
+      213: 6221950814813599968
+    second: donuts_sheet_39
+  - first:
+      213: 8672512051117515445
+    second: donuts_sheet_40
+  - first:
+      213: 8370164724591324692
+    second: donuts_sheet_41
+  - first:
+      213: -372181031811197931
+    second: donuts_sheet_42
+  - first:
+      213: -1886719382097184998
+    second: donuts_sheet_43
+  - first:
+      213: -1972289566713668036
+    second: donuts_sheet_44
+  - first:
+      213: -6457209098456642510
+    second: donuts_sheet_45
+  - first:
+      213: 3283745394866401398
+    second: donuts_sheet_46
+  - first:
+      213: -800086195351257115
+    second: donuts_sheet_47
+  - first:
+      213: -3326158728630884724
+    second: donuts_sheet_48
+  - first:
+      213: 610659364604819580
+    second: donuts_sheet_49
+  - first:
+      213: -1568430738191457376
+    second: donuts_sheet_50
+  - first:
+      213: -4287959905115828514
+    second: donuts_sheet_51
+  - first:
+      213: -1030036336840194850
+    second: donuts_sheet_52
+  - first:
+      213: -5969170509378596224
+    second: donuts_sheet_53
+  - first:
+      213: -5181469444597684289
+    second: donuts_sheet_54
+  - first:
+      213: 4096772081551431174
+    second: donuts_sheet_55
+  - first:
+      213: 1699764882369500986
+    second: donuts_sheet_56
+  - first:
+      213: 2568560345162055546
+    second: donuts_sheet_57
+  - first:
+      213: 7091132957632721702
+    second: donuts_sheet_58
+  - first:
+      213: -5889831072212246362
+    second: donuts_sheet_59
+  - first:
+      213: -8647558293478220743
+    second: donuts_sheet_60
+  - first:
+      213: -5837009221944570209
+    second: donuts_sheet_61
+  - first:
+      213: -4090836209775495600
+    second: donuts_sheet_62
+  - first:
+      213: -8101827793051885673
+    second: donuts_sheet_63
+  - first:
+      213: 458570223412081493
+    second: donuts_sheet_64
+  - first:
+      213: -30158381022966133
+    second: donuts_sheet_65
+  - first:
+      213: 9161070619195168983
+    second: donuts_sheet_66
+  - first:
+      213: -3342911265393953216
+    second: donuts_sheet_67
+  - first:
+      213: 637182292014687915
+    second: donuts_sheet_68
+  - first:
+      213: -3685857975592778039
+    second: donuts_sheet_69
+  - first:
+      213: 4032124051637107019
+    second: donuts_sheet_70
+  - first:
+      213: -744072279022546903
+    second: donuts_sheet_71
+  - first:
+      213: -870350282780842821
+    second: donuts_sheet_72
+  - first:
+      213: -1712806414166611512
+    second: donuts_sheet_73
+  - first:
+      213: -879870717791436424
+    second: donuts_sheet_74
+  - first:
+      213: -3755748911914410342
+    second: donuts_sheet_75
+  - first:
+      213: 100791119928441355
+    second: donuts_sheet_76
+  - first:
+      213: -7404866629717476088
+    second: donuts_sheet_77
+  - first:
+      213: 7815827662032073794
+    second: donuts_sheet_78
+  - first:
+      213: 8549774449134642614
+    second: donuts_sheet_79
+  - first:
+      213: 6433713383984475774
+    second: donuts_sheet_80
+  - first:
+      213: -6033328944795579961
+    second: donuts_sheet_81
+  - first:
+      213: 4540610389805781191
+    second: donuts_sheet_82
+  - first:
+      213: -2079500353781182585
+    second: donuts_sheet_83
+  - first:
+      213: -4679181059034906747
+    second: donuts_sheet_84
+  - first:
+      213: 9185237426001939279
+    second: donuts_sheet_85
+  - first:
+      213: 5162319800778330202
+    second: donuts_sheet_86
+  - first:
+      213: -11365589648465442
+    second: donuts_sheet_87
+  - first:
+      213: -5657474378171964874
+    second: donuts_sheet_88
+  - first:
+      213: -4822817452071585190
+    second: donuts_sheet_89
+  - first:
+      213: 5759408580052325442
+    second: donuts_sheet_90
+  - first:
+      213: -3050871476993709521
+    second: donuts_sheet_91
+  - first:
+      213: -4275895767011988101
+    second: donuts_sheet_92
+  - first:
+      213: -6212683186134560576
+    second: donuts_sheet_93
+  - first:
+      213: 2610043376694522996
+    second: donuts_sheet_94
+  - first:
+      213: 6483730710085432074
+    second: donuts_sheet_95
+  - first:
+      213: 7334056842288600359
+    second: donuts_sheet_96
+  - first:
+      213: -6358743991474987855
+    second: donuts_sheet_97
+  - first:
+      213: -1220022006556829008
+    second: donuts_sheet_98
+  - first:
+      213: -1621497499272684390
+    second: donuts_sheet_99
+  - first:
+      213: 3741311905850479361
+    second: donuts_sheet_100
+  - first:
+      213: 2432009192467382439
+    second: donuts_sheet_101
+  - first:
+      213: -8488837574840013215
+    second: donuts_sheet_102
+  - first:
+      213: -7451746368826243810
+    second: donuts_sheet_103
+  - first:
+      213: 3588880372319025850
+    second: donuts_sheet_104
+  - first:
+      213: -1287713180387700029
+    second: donuts_sheet_105
+  - first:
+      213: -768193510231487840
+    second: donuts_sheet_106
+  - first:
+      213: -2921771728455755795
+    second: donuts_sheet_107
+  - first:
+      213: -9160007013225914291
+    second: donuts_sheet_108
+  - first:
+      213: -9025699568883741264
+    second: donuts_sheet_109
+  - first:
+      213: -7642355094882017878
+    second: donuts_sheet_110
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: donuts_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 456
+        height: 1669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f77dc49d9ec82c0800000000000000
+      internalID: -4427907214105673835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1948
+        width: 193
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df0dfb8d72013f10800000000000000
+      internalID: 2247580427277373393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 2017
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4d12a3e71a79d00800000000000000
+      internalID: 979429007489619180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 2031
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86c869d3237b02b0800000000000000
+      internalID: -5617269512405989748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 2005
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1099688792ab6c40800000000000000
+      internalID: 5506673741102944287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1998
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4b93378650b1630800000000000000
+      internalID: 3898715848587195636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2002
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9385642d43dd240800000000000000
+      internalID: 4818065254084262330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1994
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdde5b135a0be1b0800000000000000
+      internalID: -5626391957411537466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1966
+        width: 73
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d3349943d32f640800000000000000
+      internalID: 5112215823137848599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1982
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c88bb6b3a8d5a80800000000000000
+      internalID: -8476466935826445169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1969
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e91677f9ab57810800000000000000
+      internalID: 1762520023250869774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1930
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8b867e87cd0ab80800000000000000
+      internalID: -8385460094327277404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1949
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfedb86bb7c9f020800000000000000
+      internalID: 2376149886144737230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1936
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2c2e5c7dc8c4c50800000000000000
+      internalID: 6650845608085209780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1838
+        width: 206
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb318919b3e8dcd0800000000000000
+      internalID: -2533024406259549260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1911
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86fc0aa7d0073f70800000000000000
+      internalID: 9166796492806878861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1905
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cd5223bff60bb50800000000000000
+      internalID: 6606903778021334056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1881
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d02876f2a1b4b3b0800000000000000
+      internalID: -5497573931634646831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1880
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde2f360fbb733e10800000000000000
+      internalID: 2176219105323855583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1863
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9eb78f282bf43e40800000000000000
+      internalID: 5635405183762022046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1877
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66a4ca6d512df740800000000000000
+      internalID: 5187339030907627116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1369
+        width: 228
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0b3d60584a44cc0800000000000000
+      internalID: -3727673700303785750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1853
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1489f8bd0d395a210800000000000000
+      internalID: 1343642589086062657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1837
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30d3ceac6ec62760800000000000000
+      internalID: 7432855201205440570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1848
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94db158796063290800000000000000
+      internalID: -7911128447586675555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1339
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a70c91fd416a4fe0800000000000000
+      internalID: -1204042962974275673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1353
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1b964f5d5d3fc30800000000000000
+      internalID: 4392089176521683404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1327
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60559829ae3d6e10800000000000000
+      internalID: 2192477489850568813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1320
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da04faa5b806c9880800000000000000
+      internalID: -8602895036546334547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1324
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dafc095abdc93d0800000000000000
+      internalID: -3198440131194278501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1316
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d797ab543b54c50800000000000000
+      internalID: 6648917536945044895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1304
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326b22f731528aba0800000000000000
+      internalID: -6077566931468896733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1291
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffeabb5f54119360800000000000000
+      internalID: 7174538081171337211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e891c215819d5d0800000000000000
+      internalID: -3037369736773398944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1258
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ab6108a421c0dc0800000000000000
+      internalID: -3671539485027943876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1235
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fb7c30d41d810b0800000000000000
+      internalID: -5757621994887069794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1233
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7dfbbe742c9c220800000000000000
+      internalID: 2506748281762076646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1227
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0d5799884a92f10800000000000000
+      internalID: 2245506795818045641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1203
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1b7902b31fa1fa0800000000000000
+      internalID: -5829081531425508954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1202
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8baeefc4fc85650800000000000000
+      internalID: 6221950814813599968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1185
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b26725f2c3fa5870800000000000000
+      internalID: 8672512051117515445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1199
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e65c0587cc82470800000000000000
+      internalID: 8370164724591324692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1175
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51451cec25fb5daf0800000000000000
+      internalID: -372181031811197931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1159
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17b04fd7b601d5e0800000000000000
+      internalID: -1886719382097184998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1170
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e92d5b61501a4e0800000000000000
+      internalID: -1972289566713668036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1129
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c421669826366a0800000000000000
+      internalID: -6457209098456642510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67036d1e905329d20800000000000000
+      internalID: 3283745394866401398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1117
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eff46828d585e4f0800000000000000
+      internalID: -800086195351257115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1110
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c862461524c17d1d0800000000000000
+      internalID: -3326158728630884724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1114
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78390ae47f797800800000000000000
+      internalID: 610659364604819580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1106
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a36b43bd80db3ae0800000000000000
+      internalID: -1568430738191457376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1094
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede04745f2b1e74c0800000000000000
+      internalID: -4287959905115828514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1081
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed445e4b86394b1f0800000000000000
+      internalID: -1030036336840194850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1061
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08250c83c0f392da0800000000000000
+      internalID: -5969170509378596224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1048
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7e6342ef8b718b0800000000000000
+      internalID: -5181469444597684289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1025
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6065c96a088aad830800000000000000
+      internalID: 4096772081551431174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1023
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37515f9727c69710800000000000000
+      internalID: 1699764882369500986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1017
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ff98d660c55a320800000000000000
+      internalID: 2568560345162055546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 993
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62373c2cad3c86260800000000000000
+      internalID: 7091132957632721702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 992
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a02bb178dd134ea0800000000000000
+      internalID: -5889831072212246362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 975
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c5fbe7c83bdf780800000000000000
+      internalID: -8647558293478220743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 989
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e8057d907cefea0800000000000000
+      internalID: -5837009221944570209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 965
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056b602342e6a37c0800000000000000
+      internalID: -4090836209775495600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 949
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f51cb2c86809f80800000000000000
+      internalID: -8101827793051885673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5537c07403b2d5600800000000000000
+      internalID: 458570223412081493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 919
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e002cbc1bd49ff0800000000000000
+      internalID: -30158381022966133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 933
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d85563d039a22f70800000000000000
+      internalID: 9161070619195168983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 907
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046ba866ae79b91d0800000000000000
+      internalID: -3342911265393953216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 900
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba664bc2be9b7d800800000000000000
+      internalID: 637182292014687915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 904
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6804023b339dcc0800000000000000
+      internalID: -3685857975592778039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 896
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49732c367bf4f730800000000000000
+      internalID: 4032124051637107019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 884
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92055a954368ca5f0800000000000000
+      internalID: -744072279022546903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 871
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4efa47705ebe3f0800000000000000
+      internalID: -870350282780842821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 851
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9a69224a3ea38e0800000000000000
+      internalID: -1712806414166611512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 838
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87106c17e321ac3f0800000000000000
+      internalID: -879870717791436424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 815
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e18cf6346e0ebc0800000000000000
+      internalID: -3755748911914410342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 813
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a39d35df4166100800000000000000
+      internalID: 100791119928441355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 807
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dbb8e6801ac3990800000000000000
+      internalID: -7404866629717476088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 783
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244f71d39d5677c60800000000000000
+      internalID: 7815827662032073794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 782
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5a1661096e6a670800000000000000
+      internalID: 8549774449134642614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 765
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e22174c34294950800000000000000
+      internalID: 6433713383984475774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 779
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c980686a4f454ca0800000000000000
+      internalID: -6033328944795579961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 755
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c052d3a71d730f30800000000000000
+      internalID: 4540610389805781191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 739
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fc29622712423e0800000000000000
+      internalID: -2079500353781182585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 750
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ffc704e95301fb0800000000000000
+      internalID: -4679181059034906747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 467
+        width: 143
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b087206c4887f70800000000000000
+      internalID: 9185237426001939279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 477
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a509b56f18e34a740800000000000000
+      internalID: 5162319800778330202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 383
+        width: 139
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed127527e0f97dff0800000000000000
+      internalID: -11365589648465442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 366
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632af23170d9c71b0800000000000000
+      internalID: -5657474378171964874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 192
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5af7b86419e11db0800000000000000
+      internalID: -4822817452071585190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 322
+        width: 135
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2441b52c6978def40800000000000000
+      internalID: 5759408580052325442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 153
+        width: 418
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a2b6e4e8029a5d0800000000000000
+      internalID: -3050871476993709521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 336
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d67ae5477f8a4c0800000000000000
+      internalID: -4275895767011988101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 350
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c05864fe8d18c9a0800000000000000
+      internalID: -6212683186134560576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 350
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474fc3c5f9cb83420800000000000000
+      internalID: 2610043376694522996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 328
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03fee18ab6daf950800000000000000
+      internalID: 6483730710085432074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 324
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725922f27ddc7c560800000000000000
+      internalID: 7334056842288600359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 281
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcdb72a70431c7a0800000000000000
+      internalID: -6358743991474987855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 279
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba5501f27c911fe0800000000000000
+      internalID: -1220022006556829008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 298
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cdaaf8d984f79e0800000000000000
+      internalID: -1621497499272684390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 272
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10358262b5fcbe330800000000000000
+      internalID: 3741311905850479361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0c087a97b30c120800000000000000
+      internalID: 2432009192467382439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 245
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e2ca39337913a80800000000000000
+      internalID: -8488837574840013215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 252
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e150ec99824169890800000000000000
+      internalID: -7451746368826243810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 203
+        width: 74
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba72751fa34ec130800000000000000
+      internalID: 3588880372319025850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 205
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2176e5faf112ee0800000000000000
+      internalID: -1287713180387700029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 190
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa44ef8214d655f0800000000000000
+      internalID: -768193510231487840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 197
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de79d9ad718c377d0800000000000000
+      internalID: -2921771728455755795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 212
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40259c372e11e080800000000000000
+      internalID: -9160007013225914291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 162
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdc943ff064eb280800000000000000
+      internalID: -9025699568883741264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donuts_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 180
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad192a3886e0f590800000000000000
+      internalID: -7642355094882017878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

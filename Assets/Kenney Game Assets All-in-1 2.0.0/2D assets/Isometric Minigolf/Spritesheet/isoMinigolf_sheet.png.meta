@@ -1,0 +1,882 @@
+fileFormatVersion: 2
+guid: 6b2b0eca88db23e4ba3ce21f3ffb5923
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6480654317579909216
+    second: isoMinigolf_sheet_0
+  - first:
+      213: -7195375182627363707
+    second: isoMinigolf_sheet_1
+  - first:
+      213: 7463571131664044284
+    second: isoMinigolf_sheet_2
+  - first:
+      213: 6148416019346069512
+    second: isoMinigolf_sheet_3
+  - first:
+      213: 2554457578998867745
+    second: isoMinigolf_sheet_4
+  - first:
+      213: -7298936428102741645
+    second: isoMinigolf_sheet_5
+  - first:
+      213: -3515654309295048499
+    second: isoMinigolf_sheet_6
+  - first:
+      213: -1654554168114273393
+    second: isoMinigolf_sheet_7
+  - first:
+      213: -6862920688566451790
+    second: isoMinigolf_sheet_8
+  - first:
+      213: -3011084215891125883
+    second: isoMinigolf_sheet_9
+  - first:
+      213: 595008604582913433
+    second: isoMinigolf_sheet_10
+  - first:
+      213: 6762685967455067570
+    second: isoMinigolf_sheet_11
+  - first:
+      213: 7065940602279008627
+    second: isoMinigolf_sheet_12
+  - first:
+      213: 584739901566324157
+    second: isoMinigolf_sheet_13
+  - first:
+      213: 564030855819571862
+    second: isoMinigolf_sheet_14
+  - first:
+      213: 5868262241551464508
+    second: isoMinigolf_sheet_15
+  - first:
+      213: -3297130115825207697
+    second: isoMinigolf_sheet_16
+  - first:
+      213: -6814979798287695391
+    second: isoMinigolf_sheet_17
+  - first:
+      213: 8803563880516561015
+    second: isoMinigolf_sheet_18
+  - first:
+      213: 7884738937986124103
+    second: isoMinigolf_sheet_19
+  - first:
+      213: 8888000148323788752
+    second: isoMinigolf_sheet_20
+  - first:
+      213: -3403666676314278464
+    second: isoMinigolf_sheet_21
+  - first:
+      213: -3606691333589541539
+    second: isoMinigolf_sheet_22
+  - first:
+      213: -3263851712375822904
+    second: isoMinigolf_sheet_23
+  - first:
+      213: 1279519983579490785
+    second: isoMinigolf_sheet_24
+  - first:
+      213: -1144699834027016908
+    second: isoMinigolf_sheet_25
+  - first:
+      213: -7666010874483439264
+    second: isoMinigolf_sheet_26
+  - first:
+      213: -7978525004180631063
+    second: isoMinigolf_sheet_27
+  - first:
+      213: 8898891681060047620
+    second: isoMinigolf_sheet_28
+  - first:
+      213: -6227234161740612675
+    second: isoMinigolf_sheet_29
+  - first:
+      213: 9123541005242656401
+    second: isoMinigolf_sheet_30
+  - first:
+      213: 3713240587409232461
+    second: isoMinigolf_sheet_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2559
+        width: 1441
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068b37f04c8efe950800000000000000
+      internalID: 6480654317579909216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 2605
+        width: 1261
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584a5d5e464e42c90800000000000000
+      internalID: -7195375182627363707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2365
+        width: 1209
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf012ba866ee39760800000000000000
+      internalID: 7463571131664044284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 2349
+        width: 1441
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808917c3bcf835550800000000000000
+      internalID: 6148416019346069512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2109
+        width: 901
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127280e42a1437320800000000000000
+      internalID: 2554457578998867745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 2109
+        width: 310
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37117c47df7f4ba90800000000000000
+      internalID: -7298936428102741645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 2100
+        width: 1441
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8b56d4803e53fc0800000000000000
+      internalID: -3515654309295048499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1853
+        width: 1261
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8328e310c7d909e0800000000000000
+      internalID: -1654554168114273393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1807
+        width: 696
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1415cbef102c0a0800000000000000
+      internalID: -6862920688566451790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1844
+        width: 721
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589160bebda7636d0800000000000000
+      internalID: -3011084215891125883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1597
+        width: 1029
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99527726c25e14800800000000000000
+      internalID: 595008604582913433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1551
+        width: 362
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd9da1ae03e9dd50800000000000000
+      internalID: 6762685967455067570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1597
+        width: 362
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37999d27a834f0260800000000000000
+      internalID: 7065940602279008627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1597
+        width: 696
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd8bd6a7d96d1800800000000000000
+      internalID: 584739901566324157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1341
+        width: 541
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6923c733317d3d700800000000000000
+      internalID: 564030855819571862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1341
+        width: 897
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c383384da61407150800000000000000
+      internalID: 5868262241551464508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1341
+        width: 362
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66fefbe0ad3e32d0800000000000000
+      internalID: -3297130115825207697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1341
+        width: 696
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e149931bf35c61a0800000000000000
+      internalID: -6814979798287695391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1085
+        width: 1261
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77826afb4ba8c2a70800000000000000
+      internalID: 8803563880516561015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1085
+        width: 696
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7498a59f9483c6d60800000000000000
+      internalID: 7884738937986124103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1085
+        width: 542
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d765745b05885b70800000000000000
+      internalID: 8888000148323788752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 829
+        width: 716
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5f378f03fb3c0d0800000000000000
+      internalID: -3403666676314278464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 829
+        width: 542
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d5ae6575572fdc0800000000000000
+      internalID: -3606691333589541539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 798
+        width: 1262
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5e944092874b2d0800000000000000
+      internalID: -3263851712375822904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 1441
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9e44855a4c1c110800000000000000
+      internalID: 1279519983579490785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 573
+        width: 1082
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dfe5ad0953d10f0800000000000000
+      internalID: -1144699834027016908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 317
+        width: 1441
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0690226d9bbdc9590800000000000000
+      internalID: -7666010874483439264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 317
+        width: 1082
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1dd3ed7c5964190800000000000000
+      internalID: -7978525004180631063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 901
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b4348e5d63f7b70800000000000000
+      internalID: 8898891681060047620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 61
+        width: 130
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbf540f58b6499a0800000000000000
+      internalID: -6227234161740612675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 0
+        width: 182
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196e237a4345d9e70800000000000000
+      internalID: 9123541005242656401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isoMinigolf_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 61
+        width: 1262
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42171204a4188330800000000000000
+      internalID: 3713240587409232461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

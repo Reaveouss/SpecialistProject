@@ -1,0 +1,3186 @@
+fileFormatVersion: 2
+guid: bdfbd1162cb9ceb4ab754a3c8284fa54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2457743719027220695
+    second: sheet_facialHair_0
+  - first:
+      213: 8383159446632992262
+    second: sheet_facialHair_1
+  - first:
+      213: -7495591155197376775
+    second: sheet_facialHair_2
+  - first:
+      213: 5898241152104224970
+    second: sheet_facialHair_3
+  - first:
+      213: 862823523668109547
+    second: sheet_facialHair_4
+  - first:
+      213: -6592348188404954993
+    second: sheet_facialHair_5
+  - first:
+      213: -7699193109395427480
+    second: sheet_facialHair_6
+  - first:
+      213: -6655728852495223880
+    second: sheet_facialHair_7
+  - first:
+      213: -7778094444424387338
+    second: sheet_facialHair_8
+  - first:
+      213: -3336884113745780883
+    second: sheet_facialHair_9
+  - first:
+      213: 5735755639522741978
+    second: sheet_facialHair_10
+  - first:
+      213: -1173462865069063282
+    second: sheet_facialHair_11
+  - first:
+      213: -776285172253291254
+    second: sheet_facialHair_12
+  - first:
+      213: -5855212520191596796
+    second: sheet_facialHair_13
+  - first:
+      213: 4546657270267158215
+    second: sheet_facialHair_14
+  - first:
+      213: -8486620236254210702
+    second: sheet_facialHair_15
+  - first:
+      213: -3830941102637971449
+    second: sheet_facialHair_16
+  - first:
+      213: -8763013037189193751
+    second: sheet_facialHair_17
+  - first:
+      213: -6494184897709326085
+    second: sheet_facialHair_18
+  - first:
+      213: -8406594056614717105
+    second: sheet_facialHair_19
+  - first:
+      213: 6905653343678804118
+    second: sheet_facialHair_20
+  - first:
+      213: 5419177474804756000
+    second: sheet_facialHair_21
+  - first:
+      213: 2404179523808878370
+    second: sheet_facialHair_22
+  - first:
+      213: -8816657035369519612
+    second: sheet_facialHair_23
+  - first:
+      213: -8129496275451710334
+    second: sheet_facialHair_24
+  - first:
+      213: 8027877518376529316
+    second: sheet_facialHair_25
+  - first:
+      213: 7378501688416070458
+    second: sheet_facialHair_26
+  - first:
+      213: 1725249943511866947
+    second: sheet_facialHair_27
+  - first:
+      213: 5188863820052040863
+    second: sheet_facialHair_28
+  - first:
+      213: 250882660123840408
+    second: sheet_facialHair_29
+  - first:
+      213: 4658609448691958138
+    second: sheet_facialHair_30
+  - first:
+      213: 5773022016534365262
+    second: sheet_facialHair_31
+  - first:
+      213: -1847672026308236741
+    second: sheet_facialHair_32
+  - first:
+      213: -3859567598194247790
+    second: sheet_facialHair_33
+  - first:
+      213: -1891737866947541100
+    second: sheet_facialHair_34
+  - first:
+      213: 3921519120469665594
+    second: sheet_facialHair_35
+  - first:
+      213: -7522108606639844369
+    second: sheet_facialHair_36
+  - first:
+      213: 5107344269897521365
+    second: sheet_facialHair_37
+  - first:
+      213: 6007949617291624746
+    second: sheet_facialHair_38
+  - first:
+      213: 4514608809136580862
+    second: sheet_facialHair_39
+  - first:
+      213: -4861383297961798437
+    second: sheet_facialHair_40
+  - first:
+      213: -6004295694436018586
+    second: sheet_facialHair_41
+  - first:
+      213: -6383095519150868054
+    second: sheet_facialHair_42
+  - first:
+      213: -3413368046684704605
+    second: sheet_facialHair_43
+  - first:
+      213: -845250482000759124
+    second: sheet_facialHair_44
+  - first:
+      213: 1274963196869832496
+    second: sheet_facialHair_45
+  - first:
+      213: -2241806331696246521
+    second: sheet_facialHair_46
+  - first:
+      213: -1809876481598879035
+    second: sheet_facialHair_47
+  - first:
+      213: -6978897359085229123
+    second: sheet_facialHair_48
+  - first:
+      213: 6089944259762356401
+    second: sheet_facialHair_49
+  - first:
+      213: 3648774582472411202
+    second: sheet_facialHair_50
+  - first:
+      213: -4917911588709089148
+    second: sheet_facialHair_51
+  - first:
+      213: -8269020124971914104
+    second: sheet_facialHair_52
+  - first:
+      213: 4930254934910634952
+    second: sheet_facialHair_53
+  - first:
+      213: 1447093161759408160
+    second: sheet_facialHair_54
+  - first:
+      213: -1783765893820808126
+    second: sheet_facialHair_55
+  - first:
+      213: -686411183303660252
+    second: sheet_facialHair_56
+  - first:
+      213: 7692583756835152905
+    second: sheet_facialHair_57
+  - first:
+      213: -6148991081530937409
+    second: sheet_facialHair_58
+  - first:
+      213: 4380921424790707100
+    second: sheet_facialHair_59
+  - first:
+      213: -4688864842968830231
+    second: sheet_facialHair_60
+  - first:
+      213: -2703633892917701579
+    second: sheet_facialHair_61
+  - first:
+      213: -7761851232165673452
+    second: sheet_facialHair_62
+  - first:
+      213: 6142695158267375534
+    second: sheet_facialHair_63
+  - first:
+      213: 9077041494236019241
+    second: sheet_facialHair_64
+  - first:
+      213: -2267359485876129071
+    second: sheet_facialHair_65
+  - first:
+      213: 3310570315892113615
+    second: sheet_facialHair_66
+  - first:
+      213: 4792945856034396047
+    second: sheet_facialHair_67
+  - first:
+      213: -3541872340074720545
+    second: sheet_facialHair_68
+  - first:
+      213: 7092500882818179528
+    second: sheet_facialHair_69
+  - first:
+      213: -6055487935470290686
+    second: sheet_facialHair_70
+  - first:
+      213: -7691038237587775880
+    second: sheet_facialHair_71
+  - first:
+      213: 4202267592255515224
+    second: sheet_facialHair_72
+  - first:
+      213: -3232316656988048739
+    second: sheet_facialHair_73
+  - first:
+      213: -1461068851966850012
+    second: sheet_facialHair_74
+  - first:
+      213: 6574482401129170503
+    second: sheet_facialHair_75
+  - first:
+      213: 2964053571617252680
+    second: sheet_facialHair_76
+  - first:
+      213: 5688260487131089806
+    second: sheet_facialHair_77
+  - first:
+      213: 5841056466536349615
+    second: sheet_facialHair_78
+  - first:
+      213: -1961570979665973432
+    second: sheet_facialHair_79
+  - first:
+      213: -5045530682259755515
+    second: sheet_facialHair_80
+  - first:
+      213: 1524360133316964999
+    second: sheet_facialHair_81
+  - first:
+      213: -2707557007854699459
+    second: sheet_facialHair_82
+  - first:
+      213: -4688869561946333900
+    second: sheet_facialHair_83
+  - first:
+      213: -2454864264309456713
+    second: sheet_facialHair_84
+  - first:
+      213: 7248597843818759196
+    second: sheet_facialHair_85
+  - first:
+      213: 7876444682757150603
+    second: sheet_facialHair_86
+  - first:
+      213: -3352351636464242677
+    second: sheet_facialHair_87
+  - first:
+      213: 4958631394735729533
+    second: sheet_facialHair_88
+  - first:
+      213: -1696069320193237317
+    second: sheet_facialHair_89
+  - first:
+      213: -2465968409294782717
+    second: sheet_facialHair_90
+  - first:
+      213: 7413682983964581514
+    second: sheet_facialHair_91
+  - first:
+      213: -6886799266828948811
+    second: sheet_facialHair_92
+  - first:
+      213: -755750823630045428
+    second: sheet_facialHair_93
+  - first:
+      213: -4619700483626759542
+    second: sheet_facialHair_94
+  - first:
+      213: -3429027885202065509
+    second: sheet_facialHair_95
+  - first:
+      213: -8868677024252405994
+    second: sheet_facialHair_96
+  - first:
+      213: 5753531420050231011
+    second: sheet_facialHair_97
+  - first:
+      213: 7911841745617885645
+    second: sheet_facialHair_98
+  - first:
+      213: 6169808719861510520
+    second: sheet_facialHair_99
+  - first:
+      213: 3654454979442002248
+    second: sheet_facialHair_100
+  - first:
+      213: -8520642449800668735
+    second: sheet_facialHair_101
+  - first:
+      213: 7584532205885867885
+    second: sheet_facialHair_102
+  - first:
+      213: 5492350666469605875
+    second: sheet_facialHair_103
+  - first:
+      213: -4583123700728825042
+    second: sheet_facialHair_104
+  - first:
+      213: 8003080835744669370
+    second: sheet_facialHair_105
+  - first:
+      213: 7605906117989135426
+    second: sheet_facialHair_106
+  - first:
+      213: -2658462878161291633
+    second: sheet_facialHair_107
+  - first:
+      213: -8784653974305501233
+    second: sheet_facialHair_108
+  - first:
+      213: -290485221789344812
+    second: sheet_facialHair_109
+  - first:
+      213: -724454419651935061
+    second: sheet_facialHair_110
+  - first:
+      213: -926690626356171799
+    second: sheet_facialHair_111
+  - first:
+      213: -1088761216091457027
+    second: sheet_facialHair_112
+  - first:
+      213: 7763549308076536742
+    second: sheet_facialHair_113
+  - first:
+      213: 1326986189243978109
+    second: sheet_facialHair_114
+  - first:
+      213: -5969274988775464455
+    second: sheet_facialHair_115
+  - first:
+      213: 5871901983081802981
+    second: sheet_facialHair_116
+  - first:
+      213: -648605657991780468
+    second: sheet_facialHair_117
+  - first:
+      213: -1141302605380042318
+    second: sheet_facialHair_118
+  - first:
+      213: -8829153435433166762
+    second: sheet_facialHair_119
+  - first:
+      213: 214222348273742324
+    second: sheet_facialHair_120
+  - first:
+      213: -2831303081002967709
+    second: sheet_facialHair_121
+  - first:
+      213: 6940343250169523035
+    second: sheet_facialHair_122
+  - first:
+      213: -5456528912860657280
+    second: sheet_facialHair_123
+  - first:
+      213: -4375128515979749621
+    second: sheet_facialHair_124
+  - first:
+      213: -2972194844321928885
+    second: sheet_facialHair_125
+  - first:
+      213: 5296393668936239793
+    second: sheet_facialHair_126
+  - first:
+      213: 8160488162447248445
+    second: sheet_facialHair_127
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_facialHair_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 453
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0a09904e8ab1220800000000000000
+      internalID: 2457743719027220695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 454
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e0500d917f65470800000000000000
+      internalID: 8383159446632992262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 481
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f686e4ce8f4af790800000000000000
+      internalID: -7495591155197376775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 475
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac853ced313cad150800000000000000
+      internalID: 5898241152104224970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 463
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8a6106c6d59fb00800000000000000
+      internalID: 862823523668109547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 443
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88ce6a10464384a0800000000000000
+      internalID: -6592348188404954993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 496
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fa959b8a8f62590800000000000000
+      internalID: -7699193109395427480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 479
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b334b94fd912a3a0800000000000000
+      internalID: -6655728852495223880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_8
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 488
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f425aa1058ae0490800000000000000
+      internalID: -7778094444424387338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 449
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fd98ff39101b1d0800000000000000
+      internalID: -3336884113745780883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 437
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade42346d5f799f40800000000000000
+      internalID: 5735755639522741978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 469
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e834272ddb507bfe0800000000000000
+      internalID: -1173462865069063282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_12
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 470
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d807fafb41a35f0800000000000000
+      internalID: -776285172253291254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_13
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 461
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4076f813c3b1ebea0800000000000000
+      internalID: -5855212520191596796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_14
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 431
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce98b5b2b8f81f30800000000000000
+      internalID: 4546657270267158215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_15
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 459
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2751d62fbd7793a80800000000000000
+      internalID: -8486620236254210702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 449
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70802d54d53c5dac0800000000000000
+      internalID: -3830941102637971449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_17
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 452
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef98343216836680800000000000000
+      internalID: -8763013037189193751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf044524e3500e5a0800000000000000
+      internalID: -6494184897709326085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 395
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49d19cde37c55b80800000000000000
+      internalID: -8406594056614717105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_20
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 423
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690b6fbd02fc5df50800000000000000
+      internalID: 6905653343678804118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 399
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e29888339c43b40800000000000000
+      internalID: 5419177474804756000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_22
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 411
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f55ecf98c5d5120800000000000000
+      internalID: 2404179523808878370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 426
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406e9549321f4a580800000000000000
+      internalID: -8816657035369519612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 416
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284f6da953a3e2f80800000000000000
+      internalID: -8129496275451710334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_25
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 416
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad6d27c110c86f60800000000000000
+      internalID: 8027877518376529316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_26
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 426
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3be8a05134b56660800000000000000
+      internalID: 7378501688416070458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_27
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 405
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e99cfcea151f710800000000000000
+      internalID: 1725249943511866947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_28
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 391
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c041e072c820840800000000000000
+      internalID: 5188863820052040863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_29
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 401
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f8cfc33705b7300800000000000000
+      internalID: 250882660123840408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_30
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 401
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7100987c94b6a040800000000000000
+      internalID: 4658609448691958138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_31
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 391
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e444a00ffe4ed1050800000000000000
+      internalID: 5773022016534365262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_32
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 406
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3aa87ad410cb56e0800000000000000
+      internalID: -1847672026308236741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_33
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 406
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2973603e7bf007ac0800000000000000
+      internalID: -3859567598194247790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_34
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 367
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497cf60de623fb5e0800000000000000
+      internalID: -1891737866947541100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 349
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a372f7becd80c6630800000000000000
+      internalID: 3921519120469665594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_36
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 396
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3d25b731a1c9790800000000000000
+      internalID: -7522108606639844369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_37
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 361
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d85ed8bd8ee0e640800000000000000
+      internalID: 5107344269897521365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a218c1f6856806350800000000000000
+      internalID: 6007949617291624746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_39
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 336
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef86f60eacc17ae30800000000000000
+      internalID: 4514608809136580862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_40
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 365
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd458ffa5a5e88cb0800000000000000
+      internalID: -4861383297961798437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_41
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 377
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666dbb6c0e47caca0800000000000000
+      internalID: -6004295694436018586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_42
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 363
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9ff95c170ba67a0800000000000000
+      internalID: -6383095519150868054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_43
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 347
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a070b9a8d741a0d0800000000000000
+      internalID: -3413368046684704605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_44
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 339
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6fd1a3a211544f0800000000000000
+      internalID: -845250482000759124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_45
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 347
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f6f13c54491b110800000000000000
+      internalID: 1274963196869832496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_46
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 350
+        width: 43
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7011608d40183e0e0800000000000000
+      internalID: -2241806331696246521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_47
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 336
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca07fadde602e6e0800000000000000
+      internalID: -1809876481598879035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_48
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 317
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb20d3e3d9f52f90800000000000000
+      internalID: -6978897359085229123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_49
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 307
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b08011d904d38450800000000000000
+      internalID: 6089944259762356401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 297
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2480eb5962d03a230800000000000000
+      internalID: 3648774582472411202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 317
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480c73e577110cbb0800000000000000
+      internalID: -4917911588709089148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_52
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 338
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c2e7ae10a8e3d80800000000000000
+      internalID: -8269020124971914104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_53
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 329
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb077fddb8cb6440800000000000000
+      internalID: 4930254934910634952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0200197409b151410800000000000000
+      internalID: 1447093161759408160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_55
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 277
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2448a50de5ace37e0800000000000000
+      internalID: -1783765893820808126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_56
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 322
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d64516aa06976f0800000000000000
+      internalID: -686411183303660252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_57
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 252
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90469177b2c81ca60800000000000000
+      internalID: 7692583756835152905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_58
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 252
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfad4aa0356aaaa0800000000000000
+      internalID: -6148991081530937409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_59
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 281
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b5c8123d82ccc30800000000000000
+      internalID: 4380921424790707100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_60
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 247
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee660b944ecdeeb0800000000000000
+      internalID: -4688864842968830231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 285
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5341fe18c43ca7ad0800000000000000
+      internalID: -2703633892917701579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_62
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 253
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416465bad6d584490800000000000000
+      internalID: -7761851232165673452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_63
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 273
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafe90873bc3f3550800000000000000
+      internalID: 6142695158267375534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a3b63952128fd70800000000000000
+      internalID: 9077041494236019241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_65
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 218
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2bd328f88b880e0800000000000000
+      internalID: -2267359485876129071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_66
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 255
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0c3b2892281fd20800000000000000
+      internalID: 3310570315892113615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_67
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 223
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f875c98acd6f38240800000000000000
+      internalID: 4792945856034396047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_68
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 229
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd290125fddb8dec0800000000000000
+      internalID: -3541872340074720545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_69
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 227
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1a589a9ff9d6260800000000000000
+      internalID: 7092500882818179528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_70
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 207
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20931a85ec596fba0800000000000000
+      internalID: -6055487935470290686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_71
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 203
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e52a6c871f34590800000000000000
+      internalID: -7691038237587775880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_72
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 182
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85aa68f4c14715a30800000000000000
+      internalID: 4202267592255515224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_73
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 182
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9236a240218423d0800000000000000
+      internalID: -3232316656988048739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_74
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 204
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cc026ce9d39bbe0800000000000000
+      internalID: -1461068851966850012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_75
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 204
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7468c5529e04d3b50800000000000000
+      internalID: 6574482401129170503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8456977e40f622920800000000000000
+      internalID: 2964053571617252680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_77
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 159
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bc65d76c2c0fe40800000000000000
+      internalID: 5688260487131089806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_78
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 197
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafb5e8b8e99f0150800000000000000
+      internalID: 5841056466536349615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_79
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 165
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f6b4b369917c4e0800000000000000
+      internalID: -1961570979665973432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_80
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 187
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ea29ca39caaf9b0800000000000000
+      internalID: -5045530682259755515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_81
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 153
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782ff10077d972510800000000000000
+      internalID: 1524360133316964999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_82
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 179
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c73b12f33dc6ad0800000000000000
+      internalID: -2707557007854699459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_83
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 179
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d1c02e9f9cdeeb0800000000000000
+      internalID: -4688869561946333900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_84
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 100
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0c80245f19eedd0800000000000000
+      internalID: -2454864264309456713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_85
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 133
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14ca709551389460800000000000000
+      internalID: 7248597843818759196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_86
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 137
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8711c035b0ce4d60800000000000000
+      internalID: 7876444682757150603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_87
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 112
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00795ab2fd0a71d0800000000000000
+      internalID: -3352351636464242677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_88
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 112
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ba2574bf890d440800000000000000
+      internalID: 4958631394735729533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_89
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 154
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe917f70f95678e0800000000000000
+      internalID: -1696069320193237317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_90
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 129
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f36a80cce17cdd0800000000000000
+      internalID: -2465968409294782717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_91
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 154
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e11900561b2e660800000000000000
+      internalID: 7413682983964581514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba6d3dfd8c2d60a0800000000000000
+      internalID: -6886799266828948811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_93
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 95
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f72da41a80385f0800000000000000
+      internalID: -755750823630045428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_94
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 95
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a0ab8e2e683efb0800000000000000
+      internalID: -4619700483626759542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_95
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 121
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b973f916e45a960d0800000000000000
+      internalID: -3429027885202065509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_96
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 71
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61754c51c312ce480800000000000000
+      internalID: -8868677024252405994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_97
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 119
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee8420d756a8df40800000000000000
+      internalID: 5753531420050231011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_98
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 119
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc919ae16228ccd60800000000000000
+      internalID: 7911841745617885645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_99
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 119
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871f37777509f9550800000000000000
+      internalID: 6169808719861510520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_100
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 41
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8494c41117b37b230800000000000000
+      internalID: 3654454979442002248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_101
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 57
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9548116d890c980800000000000000
+      internalID: -8520642449800668735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_102
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 57
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67465f4bdba14960800000000000000
+      internalID: 7584532205885867885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_103
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 95
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f10dc8d4dfb83c40800000000000000
+      internalID: 5492350666469605875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_104
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 78
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b7260d6497560c0800000000000000
+      internalID: -4583123700728825042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_105
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 42
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe1c433e97a01f60800000000000000
+      internalID: 8003080835744669370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_106
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 68
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24476b5015b9d8960800000000000000
+      internalID: 7605906117989135426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8632a2f81e3b1bd0800000000000000
+      internalID: -2658462878161291633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_108
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 61
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf0cc2e0c3a61680800000000000000
+      internalID: -8784653974305501233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_109
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 51
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbdeb6da3df7fbf0800000000000000
+      internalID: -290485221789344812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_110
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 24
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba44fac2b8832f5f0800000000000000
+      internalID: -724454419651935061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_111
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 47
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb2b5ff8cbb323f0800000000000000
+      internalID: -926690626356171799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_112
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 19
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df975a54171f3e0f0800000000000000
+      internalID: -1088761216091457027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_113
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 25
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3b12076faadbb60800000000000000
+      internalID: 7763549308076536742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_114
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 19
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d719cbf88e66a6210800000000000000
+      internalID: 1326986189243978109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f12a673600e82da0800000000000000
+      internalID: -5969274988775464455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_116
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 7
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eca0813ebf2d7150800000000000000
+      internalID: 5871901983081802981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_117
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 15
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87671c2790bff6f0800000000000000
+      internalID: -648605657991780468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_118
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 5
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b14819c3574920f0800000000000000
+      internalID: -1141302605380042318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_119
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 25
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6581695babb887580800000000000000
+      internalID: -8829153435433166762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_120
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f17ecb371219f200800000000000000
+      internalID: 214222348273742324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_121
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d595549d035b8d0800000000000000
+      internalID: -2831303081002967709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_122
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 9
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b62ad1a6d015060800000000000000
+      internalID: 6940343250169523035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_123
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 5
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089ca4a1dd38644b0800000000000000
+      internalID: -5456528912860657280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_124
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07585e8bcb6843c0800000000000000
+      internalID: -4375128515979749621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_125
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 15
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49a1f45984a0c6d0800000000000000
+      internalID: -2972194844321928885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_126
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 6
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba829bfaf1908940800000000000000
+      internalID: 5296393668936239793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_facialHair_127
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 14
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cc2746fb0ef3170800000000000000
+      internalID: 8160488162447248445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
