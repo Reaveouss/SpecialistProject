@@ -1,0 +1,1578 @@
+fileFormatVersion: 2
+guid: bc265aa5d6463054692657b1d9b388ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6638729097876994711
+    second: RPGblocks_tilesheet_0
+  - first:
+      213: 6847647842031628328
+    second: RPGblocks_tilesheet_1
+  - first:
+      213: 5687443936571402999
+    second: RPGblocks_tilesheet_2
+  - first:
+      213: -2269657606118998575
+    second: RPGblocks_tilesheet_3
+  - first:
+      213: -3484215400816447341
+    second: RPGblocks_tilesheet_4
+  - first:
+      213: -3534893802622770472
+    second: RPGblocks_tilesheet_5
+  - first:
+      213: 6320381530559776933
+    second: RPGblocks_tilesheet_6
+  - first:
+      213: -5110037503922678322
+    second: RPGblocks_tilesheet_7
+  - first:
+      213: -6563568000751104328
+    second: RPGblocks_tilesheet_8
+  - first:
+      213: 6140141384925450456
+    second: RPGblocks_tilesheet_9
+  - first:
+      213: 878933215350302052
+    second: RPGblocks_tilesheet_10
+  - first:
+      213: -6113053848710390871
+    second: RPGblocks_tilesheet_11
+  - first:
+      213: -3950605428624679079
+    second: RPGblocks_tilesheet_12
+  - first:
+      213: -778432189402870184
+    second: RPGblocks_tilesheet_13
+  - first:
+      213: 8352044607525823881
+    second: RPGblocks_tilesheet_14
+  - first:
+      213: -2968079223820277929
+    second: RPGblocks_tilesheet_15
+  - first:
+      213: 6298603412297353386
+    second: RPGblocks_tilesheet_16
+  - first:
+      213: 2596701809797384384
+    second: RPGblocks_tilesheet_17
+  - first:
+      213: -738286392799437557
+    second: RPGblocks_tilesheet_18
+  - first:
+      213: -5867090879221397285
+    second: RPGblocks_tilesheet_19
+  - first:
+      213: -6568103043806075022
+    second: RPGblocks_tilesheet_20
+  - first:
+      213: -5153065560751562341
+    second: RPGblocks_tilesheet_21
+  - first:
+      213: 3235519091087297133
+    second: RPGblocks_tilesheet_22
+  - first:
+      213: -7260509831190136096
+    second: RPGblocks_tilesheet_23
+  - first:
+      213: 5216149177335318954
+    second: RPGblocks_tilesheet_24
+  - first:
+      213: -1355439131001760092
+    second: RPGblocks_tilesheet_25
+  - first:
+      213: 6934890355441026020
+    second: RPGblocks_tilesheet_26
+  - first:
+      213: 5567820720552091365
+    second: RPGblocks_tilesheet_27
+  - first:
+      213: -3744711008474773286
+    second: RPGblocks_tilesheet_28
+  - first:
+      213: 1884527809183732639
+    second: RPGblocks_tilesheet_29
+  - first:
+      213: 3302304728586849777
+    second: RPGblocks_tilesheet_30
+  - first:
+      213: -5512854088329049783
+    second: RPGblocks_tilesheet_31
+  - first:
+      213: -3646998751276480620
+    second: RPGblocks_tilesheet_32
+  - first:
+      213: 8513871681176539390
+    second: RPGblocks_tilesheet_33
+  - first:
+      213: -7141860178220840944
+    second: RPGblocks_tilesheet_34
+  - first:
+      213: -8247033498714468219
+    second: RPGblocks_tilesheet_35
+  - first:
+      213: -3830754685766194692
+    second: RPGblocks_tilesheet_36
+  - first:
+      213: 2137020033563131192
+    second: RPGblocks_tilesheet_37
+  - first:
+      213: -8947823400780229028
+    second: RPGblocks_tilesheet_38
+  - first:
+      213: 7937138329144667430
+    second: RPGblocks_tilesheet_39
+  - first:
+      213: 8240885070825816820
+    second: RPGblocks_tilesheet_40
+  - first:
+      213: -2037266909765077588
+    second: RPGblocks_tilesheet_41
+  - first:
+      213: 6710241246686490364
+    second: RPGblocks_tilesheet_42
+  - first:
+      213: 6709749439995680180
+    second: RPGblocks_tilesheet_43
+  - first:
+      213: -2929518510872690670
+    second: RPGblocks_tilesheet_44
+  - first:
+      213: 3232023056011780297
+    second: RPGblocks_tilesheet_45
+  - first:
+      213: -4718628734360679562
+    second: RPGblocks_tilesheet_46
+  - first:
+      213: -4799065844643198226
+    second: RPGblocks_tilesheet_47
+  - first:
+      213: -471965419629828162
+    second: RPGblocks_tilesheet_48
+  - first:
+      213: -9042914575195324792
+    second: RPGblocks_tilesheet_49
+  - first:
+      213: 6162352080985921057
+    second: RPGblocks_tilesheet_50
+  - first:
+      213: -6738648181543088175
+    second: RPGblocks_tilesheet_51
+  - first:
+      213: -2845157336757298355
+    second: RPGblocks_tilesheet_52
+  - first:
+      213: 2061098814096822136
+    second: RPGblocks_tilesheet_53
+  - first:
+      213: 7017230510175649809
+    second: RPGblocks_tilesheet_54
+  - first:
+      213: 8303632467607732638
+    second: RPGblocks_tilesheet_55
+  - first:
+      213: 9141797501791106434
+    second: RPGblocks_tilesheet_56
+  - first:
+      213: -7631585381882760988
+    second: RPGblocks_tilesheet_57
+  - first:
+      213: -4842672202998614144
+    second: RPGblocks_tilesheet_58
+  - first:
+      213: 7712596014452673123
+    second: RPGblocks_tilesheet_59
+  - first:
+      213: 5350824461379275124
+    second: RPGblocks_tilesheet_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 1153
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9650ef81f0f7ed3a0800000000000000
+      internalID: -6638729097876994711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 457
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820f3439e6bb70f50800000000000000
+      internalID: 6847647842031628328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 465
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7faa94f702cddee40800000000000000
+      internalID: 5687443936571402999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 459
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd7381be6e8080e0800000000000000
+      internalID: -2269657606118998575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 465
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390f3699d8495afc0800000000000000
+      internalID: -3484215400816447341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 459
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2a0ffa0d881fec0800000000000000
+      internalID: -3534893802622770472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 459
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a884f5e38186b750800000000000000
+      internalID: 6320381530559776933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 457
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5d3cdd6ff7519b0800000000000000
+      internalID: -5110037503922678322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 451
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be0c18bda589e4a0800000000000000
+      internalID: -6563568000751104328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 455
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d01827ce0a263550800000000000000
+      internalID: 6140141384925450456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 449
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4652f324a19923c00800000000000000
+      internalID: 878933215350302052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 449
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab58c6b9e11a2ba0800000000000000
+      internalID: -6113053848710390871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 447
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f981b3b41ac29c0800000000000000
+      internalID: -3950605428624679079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 441
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e89ec4c047235f0800000000000000
+      internalID: -778432189402870184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 447
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9852bcbc15c68e370800000000000000
+      internalID: 8352044607525823881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 449
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757a9f6eba34fc6d0800000000000000
+      internalID: -2968079223820277929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 437
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa80c0b9e62296750800000000000000
+      internalID: 6298603412297353386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 439
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c84690c986590420800000000000000
+      internalID: 2596701809797384384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 437
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d5fa6ff6411c5f0800000000000000
+      internalID: -738286392799437557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 441
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd803173ee7e39ea0800000000000000
+      internalID: -5867090879221397285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 439
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277e6c9b41969d4a0800000000000000
+      internalID: -6568103043806075022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 433
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91aa13bc22ac78b0800000000000000
+      internalID: -5153065560751562341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 433
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ac048887fd6ec20800000000000000
+      internalID: 3235519091087297133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 1153
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea3eafb6cc7d3b90800000000000000
+      internalID: -7260509831190136096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 337
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9848a5a0c736840800000000000000
+      internalID: 5216149177335318954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 361
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6d9f1ba43803de0800000000000000
+      internalID: -1355439131001760092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 337
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e34850290ead3060800000000000000
+      internalID: 6934890355441026020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 361
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee119d127fd44d40800000000000000
+      internalID: 5567820720552091365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 705
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8cd599d2d180cc0800000000000000
+      internalID: -3744711008474773286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_29
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 199
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93ddbbce00372a10800000000000000
+      internalID: 1884527809183732639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_30
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 199
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd038f77a424dd20800000000000000
+      internalID: 3302304728586849777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_31
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 199
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949469e3a686e73b0800000000000000
+      internalID: -5512854088329049783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_32
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 199
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4974fd555f1436dc0800000000000000
+      internalID: -3646998751276480620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_33
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 199
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef019c38f29572670800000000000000
+      internalID: 8513871681176539390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 199
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01883a1d10403ec90800000000000000
+      internalID: -7141860178220840944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 199
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58090624ab6ac8d80800000000000000
+      internalID: -8247033498714468219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 199
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf92e35d8ec66dac0800000000000000
+      internalID: -3830754685766194692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 199
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d7c6ae56838ad10800000000000000
+      internalID: 2137020033563131192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 577
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56119b4602f2d380800000000000000
+      internalID: -8947823400780229028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_39
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 103
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d2ec1f141662e60800000000000000
+      internalID: 7937138329144667430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_40
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 103
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f284615f418d5270800000000000000
+      internalID: 8240885070825816820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_41
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 105
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca57bca1a8c2ab3e0800000000000000
+      internalID: -2037266909765077588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_42
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 103
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe2ce98cd09f1d50800000000000000
+      internalID: 6710241246686490364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_43
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 103
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b591ded091dd1d50800000000000000
+      internalID: 6709749439995680180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_44
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 99
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21080848f624857d0800000000000000
+      internalID: -2929518510872690670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_45
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 99
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0647f68d37adc20800000000000000
+      internalID: 3232023056011780297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 99
+        width: 156
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b0b7d9a20148eb0800000000000000
+      internalID: -4718628734360679562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 99
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea05547a0b466db0800000000000000
+      internalID: -4799065844643198226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_48
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 99
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb722b093fd3379f0800000000000000
+      internalID: -471965419629828162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 577
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88eb743fa1d118280800000000000000
+      internalID: -9042914575195324792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_50
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 0
+        width: 31
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1261e007192158550800000000000000
+      internalID: 6162352080985921057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_51
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 0
+        width: 30
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfcac88e238b72a0800000000000000
+      internalID: -6738648181543088175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_52
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 0
+        width: 35
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b1c7cf978f388d0800000000000000
+      internalID: -2845157336757298355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_53
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 0
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f4835837e7a9c10800000000000000
+      internalID: 2061098814096822136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_54
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 0
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1108d0a58f5326160800000000000000
+      internalID: 7017230510175649809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_55
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 0
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91c8291cbd6c3370800000000000000
+      internalID: 8303632467607732638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_56
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 0
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285ffce74603ede70800000000000000
+      internalID: 9141797501791106434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_57
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 0
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e070df6789271690800000000000000
+      internalID: -7631585381882760988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_58
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 0
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087fb98f94f5bccb0800000000000000
+      internalID: -4842672202998614144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_59
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 0
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a8b894635a80b60800000000000000
+      internalID: 7712596014452673123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGblocks_tilesheet_60
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 0
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4798bfb6f72f14a40800000000000000
+      internalID: 5350824461379275124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

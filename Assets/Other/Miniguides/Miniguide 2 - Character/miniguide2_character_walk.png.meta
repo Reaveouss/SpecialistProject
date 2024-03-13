@@ -1,0 +1,1146 @@
+fileFormatVersion: 2
+guid: 8dbdf1f9cd7485042a6e2bad8380b7bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7333871852860848748
+    second: miniguide2_character_walk_0
+  - first:
+      213: -2414561998497743003
+    second: miniguide2_character_walk_1
+  - first:
+      213: -3533466163856921669
+    second: miniguide2_character_walk_2
+  - first:
+      213: -2358834309611369641
+    second: miniguide2_character_walk_3
+  - first:
+      213: -4017873044551331427
+    second: miniguide2_character_walk_4
+  - first:
+      213: -7598288386756163549
+    second: miniguide2_character_walk_5
+  - first:
+      213: 5925679260431604924
+    second: miniguide2_character_walk_6
+  - first:
+      213: 8179793525377646893
+    second: miniguide2_character_walk_7
+  - first:
+      213: 7018154772617392229
+    second: miniguide2_character_walk_8
+  - first:
+      213: 2131260581108207064
+    second: miniguide2_character_walk_9
+  - first:
+      213: 9158659215816702636
+    second: miniguide2_character_walk_10
+  - first:
+      213: -6787582550615780426
+    second: miniguide2_character_walk_11
+  - first:
+      213: -4836905397265594604
+    second: miniguide2_character_walk_12
+  - first:
+      213: -5760359218570606693
+    second: miniguide2_character_walk_13
+  - first:
+      213: 5715668216185743554
+    second: miniguide2_character_walk_14
+  - first:
+      213: -6522307020981908890
+    second: miniguide2_character_walk_15
+  - first:
+      213: -4275753744914654722
+    second: miniguide2_character_walk_16
+  - first:
+      213: 6566695960330550493
+    second: miniguide2_character_walk_17
+  - first:
+      213: -4901418867577956090
+    second: miniguide2_character_walk_18
+  - first:
+      213: -6375086372003684744
+    second: miniguide2_character_walk_19
+  - first:
+      213: 7317017275335571946
+    second: miniguide2_character_walk_20
+  - first:
+      213: 586080400557618514
+    second: miniguide2_character_walk_21
+  - first:
+      213: 5245895251406234723
+    second: miniguide2_character_walk_22
+  - first:
+      213: 503635188603392670
+    second: miniguide2_character_walk_23
+  - first:
+      213: -2899564649876513178
+    second: miniguide2_character_walk_24
+  - first:
+      213: -6848791126474211213
+    second: miniguide2_character_walk_25
+  - first:
+      213: 950711860635919524
+    second: miniguide2_character_walk_26
+  - first:
+      213: 1345723808105782083
+    second: miniguide2_character_walk_27
+  - first:
+      213: 5456472726318088125
+    second: miniguide2_character_walk_28
+  - first:
+      213: 4652132703307995725
+    second: miniguide2_character_walk_29
+  - first:
+      213: 3166521554101275899
+    second: miniguide2_character_walk_30
+  - first:
+      213: 9166501860346380510
+    second: miniguide2_character_walk_31
+  - first:
+      213: 6813953140007242179
+    second: miniguide2_character_walk_32
+  - first:
+      213: 5956921135232048508
+    second: miniguide2_character_walk_33
+  - first:
+      213: -1721686702439415859
+    second: miniguide2_character_walk_34
+  - first:
+      213: -6845007130206041961
+    second: miniguide2_character_walk_35
+  - first:
+      213: 4608163177159912701
+    second: miniguide2_character_walk_36
+  - first:
+      213: 7478310711714225257
+    second: miniguide2_character_walk_37
+  - first:
+      213: -1484484792353685424
+    second: miniguide2_character_walk_38
+  - first:
+      213: 831521318465040688
+    second: miniguide2_character_walk_39
+  - first:
+      213: -2484391772691732296
+    second: miniguide2_character_walk_40
+  - first:
+      213: -3140257717876780496
+    second: miniguide2_character_walk_41
+  - first:
+      213: -8121847645171140249
+    second: miniguide2_character_walk_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miniguide2_character_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3685
+        width: 286
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ab10af79527c560800000000000000
+      internalID: 7333871852860848748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 3685
+        width: 287
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f726fb7a0cd7ed0800000000000000
+      internalID: -2414561998497743003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_2
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 3685
+        width: 284
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb227dbe3b96fec0800000000000000
+      internalID: -3533466163856921669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_3
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 3684
+        width: 276
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b4c9b61bcb34fd0800000000000000
+      internalID: -2358834309611369641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_4
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 3684
+        width: 267
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9196eae0c5ad38c0800000000000000
+      internalID: -4017873044551331427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_5
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 3682
+        width: 253
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3284c6e38f47d8690800000000000000
+      internalID: -7598288386756163549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_6
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 3682
+        width: 237
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcdcea44ed3c3250800000000000000
+      internalID: 5925679260431604924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3267
+        width: 216
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21cc287fd6748170800000000000000
+      internalID: 8179793525377646893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_8
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 3267
+        width: 194
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5607298f49e756160800000000000000
+      internalID: 7018154772617392229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_9
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 3266
+        width: 180
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd4fb4e432c39d10800000000000000
+      internalID: 2131260581108207064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_10
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 3266
+        width: 165
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caabc9938081a1f70800000000000000
+      internalID: 9158659215816702636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_11
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 3266
+        width: 165
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b318e2e1a9adc1a0800000000000000
+      internalID: -6787582550615780426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_12
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 3263
+        width: 329
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41780df0b2cdfdcb0800000000000000
+      internalID: -4836905397265594604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_13
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 3261
+        width: 334
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97c3767fc71f00b0800000000000000
+      internalID: -5760359218570606693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_14
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 3261
+        width: 179
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8edbfa5f1225f40800000000000000
+      internalID: 5715668216185743554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_15
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 3261
+        width: 187
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a4652325c1c75a0800000000000000
+      internalID: -6522307020981908890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2841
+        width: 202
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9d0577f9879a4c0800000000000000
+      internalID: -4275753744914654722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2429
+        width: 1978
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcbe7f1f27912b50800000000000000
+      internalID: 6566695960330550493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2842
+        width: 219
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6095e9e3289aafbb0800000000000000
+      internalID: -4901418867577956090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_19
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2843
+        width: 1542
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e5948a8b42787a0800000000000000
+      internalID: -6375086372003684744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2012
+        width: 517
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9f5c7d1744b8560800000000000000
+      internalID: 7317017275335571946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_21
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2010
+        width: 240
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2553e05e40d222800800000000000000
+      internalID: 586080400557618514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_22
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 2008
+        width: 221
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3642afcefe92dc840800000000000000
+      internalID: 5245895251406234723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_23
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 2007
+        width: 202
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92971129854df600800000000000000
+      internalID: 503635188603392670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_24
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 2007
+        width: 184
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e94d0405da2c7d0800000000000000
+      internalID: -2899564649876513178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_25
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 2007
+        width: 175
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37048a5c1c434f0a0800000000000000
+      internalID: -6848791126474211213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_26
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 2007
+        width: 168
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a464f0766b913d00800000000000000
+      internalID: 950711860635919524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_27
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 2007
+        width: 167
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b5eeb6ca8fca210800000000000000
+      internalID: 1345723808105782083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_28
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 2008
+        width: 166
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbffbc2f80949bb40800000000000000
+      internalID: 5456472726318088125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1590
+        width: 496
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a96acab02bf8040800000000000000
+      internalID: 4652132703307995725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_30
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1593
+        width: 180
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc03d5939eb1fb20800000000000000
+      internalID: 3166521554101275899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_31
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1593
+        width: 191
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed047e230e4f53f70800000000000000
+      internalID: 9166501860346380510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_32
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1593
+        width: 209
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c90a4a6746009e50800000000000000
+      internalID: 6813953140007242179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_33
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1593
+        width: 224
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dd58c163c3ba250800000000000000
+      internalID: 5956921135232048508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_34
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1594
+        width: 237
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfb596e0175b18e0800000000000000
+      internalID: -1721686702439415859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_35
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1594
+        width: 250
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7988d0f0846a101a0800000000000000
+      internalID: -6845007130206041961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_36
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1594
+        width: 260
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfce6a99efb73ff30800000000000000
+      internalID: 4608163177159912701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1178
+        width: 265
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c99b378fb48c760800000000000000
+      internalID: 7478310711714225257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_38
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1179
+        width: 274
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0500a4d42fc066be0800000000000000
+      internalID: -1484484792353685424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_39
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1180
+        width: 280
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031f54acb382a8b00800000000000000
+      internalID: 831521318465040688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_40
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1180
+        width: 284
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b86ec978daa58dd0800000000000000
+      internalID: -2484391772691732296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_41
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1180
+        width: 287
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03296ce4e309b64d0800000000000000
+      internalID: -3140257717876780496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniguide2_character_walk_42
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1180
+        width: 287
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7693bbd1996694f80800000000000000
+      internalID: -8121847645171140249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
