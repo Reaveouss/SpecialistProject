@@ -393,6 +393,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2506,7 +2571,107 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blockPack_0: 2762763612929145358
+      blockPack_1: 8422880671961367525
+      blockPack_10: -2983246488936763605
+      blockPack_11: 5004928883508063326
+      blockPack_12: -588772629419354196
+      blockPack_13: 5103100330845162619
+      blockPack_14: 6132557482330458561
+      blockPack_15: -5271694546935323936
+      blockPack_16: -1472056927295929425
+      blockPack_17: -6034285386245504111
+      blockPack_18: 4184999327429038456
+      blockPack_19: 2744742368501176909
+      blockPack_2: -5492100704646151598
+      blockPack_20: -6903267048367125135
+      blockPack_21: -5490378836565612039
+      blockPack_22: 4313471186640698340
+      blockPack_23: 4537629191671654031
+      blockPack_24: 1045446430348712106
+      blockPack_25: 5396401719475966860
+      blockPack_26: -3966105397158611864
+      blockPack_27: -1790906527436099559
+      blockPack_28: -6768641036343394198
+      blockPack_29: 4142868801655986117
+      blockPack_3: 4647371659281741562
+      blockPack_30: 4625235864180401189
+      blockPack_31: 3087673094339788003
+      blockPack_32: 6949634183538646217
+      blockPack_33: -1990796520955139155
+      blockPack_34: -2053116977674855307
+      blockPack_35: -7320921951627111930
+      blockPack_36: 3806089256885685792
+      blockPack_37: 8799596347100083268
+      blockPack_38: -3474152230043803623
+      blockPack_39: -3775046973271970168
+      blockPack_4: -1527254527514638123
+      blockPack_40: -7779075956573265562
+      blockPack_41: 2750738579691996671
+      blockPack_42: -5060017128330383473
+      blockPack_43: -5017114330353105815
+      blockPack_44: -4372689074839472436
+      blockPack_45: -5400961005291665966
+      blockPack_46: -1434667152149557965
+      blockPack_47: -5675666673889929682
+      blockPack_48: -5850471311527480818
+      blockPack_49: 1024907713270012263
+      blockPack_5: -8912058797989034282
+      blockPack_50: 2567749640210748348
+      blockPack_51: 5296856413427556817
+      blockPack_52: -6411322467320648961
+      blockPack_53: -5767831468956916268
+      blockPack_54: 3827146702802786341
+      blockPack_55: 6581478542879370057
+      blockPack_56: -7197838423782375443
+      blockPack_57: -4948426364622097349
+      blockPack_58: -6893008084815570231
+      blockPack_59: -8832213058860105056
+      blockPack_6: -3444066726167347739
+      blockPack_60: 2450037229964637966
+      blockPack_61: 6705747809695031534
+      blockPack_62: -2206925023214406434
+      blockPack_63: 8755140767062369973
+      blockPack_64: 7311854352935961743
+      blockPack_65: 6884906536370683107
+      blockPack_66: 393351308863533325
+      blockPack_67: -6304225085350453809
+      blockPack_68: -2437344492670522470
+      blockPack_69: 4846493522909642274
+      blockPack_7: -8028640379393095095
+      blockPack_70: 5414411721188189911
+      blockPack_71: 7692253298055960040
+      blockPack_72: -5163590361846322511
+      blockPack_73: 1897225701829404259
+      blockPack_74: -7590718421531227450
+      blockPack_75: 6572653788481386997
+      blockPack_76: 3682471096765167744
+      blockPack_77: 164110312432196424
+      blockPack_78: -4784342665140271102
+      blockPack_79: 2291259456656887348
+      blockPack_8: 182993853017935678
+      blockPack_80: -7162435542312599250
+      blockPack_81: 3479175611858113370
+      blockPack_82: 8833910602945527664
+      blockPack_83: -7709516878615150
+      blockPack_84: -6038031561834547974
+      blockPack_85: -6021886397358254938
+      blockPack_86: 8909865515380163092
+      blockPack_87: -8462327128248418956
+      blockPack_88: -9091331217025182204
+      blockPack_89: -3424893702688284704
+      blockPack_9: -2025375169923436074
+      blockPack_90: -1670882535124832641
+      blockPack_91: -3032917862939756134
+      blockPack_92: 5604361719097323742
+      blockPack_93: 9139121091051520921
+      blockPack_94: -9038187911133597457
+      blockPack_95: -3691130179990706951
+      blockPack_96: 3481782338341946406
+      blockPack_97: -5864000455035441485
+      blockPack_98: -3198273314290139966
+      blockPack_99: 5076417203560818726
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

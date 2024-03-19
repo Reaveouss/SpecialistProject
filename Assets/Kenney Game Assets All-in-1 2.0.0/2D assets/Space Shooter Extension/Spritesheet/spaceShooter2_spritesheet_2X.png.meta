@@ -147,6 +147,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -538,7 +603,25 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spaceShooter2_spritesheet_2X_0: 3379132993820532035
+      spaceShooter2_spritesheet_2X_1: -5910287855394996211
+      spaceShooter2_spritesheet_2X_10: -7334219549506714498
+      spaceShooter2_spritesheet_2X_11: -5201521332072389568
+      spaceShooter2_spritesheet_2X_12: -690076529466329632
+      spaceShooter2_spritesheet_2X_13: -5954895231044580620
+      spaceShooter2_spritesheet_2X_14: -7477373674694587380
+      spaceShooter2_spritesheet_2X_15: -7679454068696877228
+      spaceShooter2_spritesheet_2X_16: 2891360131746732304
+      spaceShooter2_spritesheet_2X_17: -1232960011390184091
+      spaceShooter2_spritesheet_2X_2: -4849014219572865507
+      spaceShooter2_spritesheet_2X_3: 4107170570318989368
+      spaceShooter2_spritesheet_2X_4: -5414236445767620114
+      spaceShooter2_spritesheet_2X_5: -1906399547301107165
+      spaceShooter2_spritesheet_2X_6: 774876434905109579
+      spaceShooter2_spritesheet_2X_7: -8410335399633580802
+      spaceShooter2_spritesheet_2X_8: -5725898606582682320
+      spaceShooter2_spritesheet_2X_9: -5104113530630211204
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

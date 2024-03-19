@@ -426,6 +426,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2770,7 +2835,118 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      donuts_sheet_0: -4427907214105673835
+      donuts_sheet_1: 2247580427277373393
+      donuts_sheet_10: 1762520023250869774
+      donuts_sheet_100: 3741311905850479361
+      donuts_sheet_101: 2432009192467382439
+      donuts_sheet_102: -8488837574840013215
+      donuts_sheet_103: -7451746368826243810
+      donuts_sheet_104: 3588880372319025850
+      donuts_sheet_105: -1287713180387700029
+      donuts_sheet_106: -768193510231487840
+      donuts_sheet_107: -2921771728455755795
+      donuts_sheet_108: -9160007013225914291
+      donuts_sheet_109: -9025699568883741264
+      donuts_sheet_11: -8385460094327277404
+      donuts_sheet_110: -7642355094882017878
+      donuts_sheet_12: 2376149886144737230
+      donuts_sheet_13: 6650845608085209780
+      donuts_sheet_14: -2533024406259549260
+      donuts_sheet_15: 9166796492806878861
+      donuts_sheet_16: 6606903778021334056
+      donuts_sheet_17: -5497573931634646831
+      donuts_sheet_18: 2176219105323855583
+      donuts_sheet_19: 5635405183762022046
+      donuts_sheet_2: 979429007489619180
+      donuts_sheet_20: 5187339030907627116
+      donuts_sheet_21: -3727673700303785750
+      donuts_sheet_22: 1343642589086062657
+      donuts_sheet_23: 7432855201205440570
+      donuts_sheet_24: -7911128447586675555
+      donuts_sheet_25: -1204042962974275673
+      donuts_sheet_26: 4392089176521683404
+      donuts_sheet_27: 2192477489850568813
+      donuts_sheet_28: -8602895036546334547
+      donuts_sheet_29: -3198440131194278501
+      donuts_sheet_3: -5617269512405989748
+      donuts_sheet_30: 6648917536945044895
+      donuts_sheet_31: -6077566931468896733
+      donuts_sheet_32: 7174538081171337211
+      donuts_sheet_33: -3037369736773398944
+      donuts_sheet_34: -3671539485027943876
+      donuts_sheet_35: -5757621994887069794
+      donuts_sheet_36: 2506748281762076646
+      donuts_sheet_37: 2245506795818045641
+      donuts_sheet_38: -5829081531425508954
+      donuts_sheet_39: 6221950814813599968
+      donuts_sheet_4: 5506673741102944287
+      donuts_sheet_40: 8672512051117515445
+      donuts_sheet_41: 8370164724591324692
+      donuts_sheet_42: -372181031811197931
+      donuts_sheet_43: -1886719382097184998
+      donuts_sheet_44: -1972289566713668036
+      donuts_sheet_45: -6457209098456642510
+      donuts_sheet_46: 3283745394866401398
+      donuts_sheet_47: -800086195351257115
+      donuts_sheet_48: -3326158728630884724
+      donuts_sheet_49: 610659364604819580
+      donuts_sheet_5: 3898715848587195636
+      donuts_sheet_50: -1568430738191457376
+      donuts_sheet_51: -4287959905115828514
+      donuts_sheet_52: -1030036336840194850
+      donuts_sheet_53: -5969170509378596224
+      donuts_sheet_54: -5181469444597684289
+      donuts_sheet_55: 4096772081551431174
+      donuts_sheet_56: 1699764882369500986
+      donuts_sheet_57: 2568560345162055546
+      donuts_sheet_58: 7091132957632721702
+      donuts_sheet_59: -5889831072212246362
+      donuts_sheet_6: 4818065254084262330
+      donuts_sheet_60: -8647558293478220743
+      donuts_sheet_61: -5837009221944570209
+      donuts_sheet_62: -4090836209775495600
+      donuts_sheet_63: -8101827793051885673
+      donuts_sheet_64: 458570223412081493
+      donuts_sheet_65: -30158381022966133
+      donuts_sheet_66: 9161070619195168983
+      donuts_sheet_67: -3342911265393953216
+      donuts_sheet_68: 637182292014687915
+      donuts_sheet_69: -3685857975592778039
+      donuts_sheet_7: -5626391957411537466
+      donuts_sheet_70: 4032124051637107019
+      donuts_sheet_71: -744072279022546903
+      donuts_sheet_72: -870350282780842821
+      donuts_sheet_73: -1712806414166611512
+      donuts_sheet_74: -879870717791436424
+      donuts_sheet_75: -3755748911914410342
+      donuts_sheet_76: 100791119928441355
+      donuts_sheet_77: -7404866629717476088
+      donuts_sheet_78: 7815827662032073794
+      donuts_sheet_79: 8549774449134642614
+      donuts_sheet_8: 5112215823137848599
+      donuts_sheet_80: 6433713383984475774
+      donuts_sheet_81: -6033328944795579961
+      donuts_sheet_82: 4540610389805781191
+      donuts_sheet_83: -2079500353781182585
+      donuts_sheet_84: -4679181059034906747
+      donuts_sheet_85: 9185237426001939279
+      donuts_sheet_86: 5162319800778330202
+      donuts_sheet_87: -11365589648465442
+      donuts_sheet_88: -5657474378171964874
+      donuts_sheet_89: -4822817452071585190
+      donuts_sheet_9: -8476466935826445169
+      donuts_sheet_90: 5759408580052325442
+      donuts_sheet_91: -3050871476993709521
+      donuts_sheet_92: -4275895767011988101
+      donuts_sheet_93: -6212683186134560576
+      donuts_sheet_94: 2610043376694522996
+      donuts_sheet_95: 6483730710085432074
+      donuts_sheet_96: 7334056842288600359
+      donuts_sheet_97: -6358743991474987855
+      donuts_sheet_98: -1220022006556829008
+      donuts_sheet_99: -1621497499272684390
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

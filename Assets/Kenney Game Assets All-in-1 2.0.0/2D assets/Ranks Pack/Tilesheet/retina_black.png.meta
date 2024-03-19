@@ -348,6 +348,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2146,7 +2211,92 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      retina_black_0: 6382320857182537235
+      retina_black_1: 842278881512099026
+      retina_black_10: -8631307267523109752
+      retina_black_11: 2348210306948694278
+      retina_black_12: -2975053308400885514
+      retina_black_13: -879376600063162743
+      retina_black_14: 3890485893702688805
+      retina_black_15: -3157773332708856091
+      retina_black_16: 677342184677042312
+      retina_black_17: 401586450406909417
+      retina_black_18: 863431727990662119
+      retina_black_19: 4095874454584910463
+      retina_black_2: -7819306144918437206
+      retina_black_20: 2694311648582757138
+      retina_black_21: 787056936707161969
+      retina_black_22: -5463055391358295778
+      retina_black_23: -5072465400027696485
+      retina_black_24: 7069979066019623079
+      retina_black_25: -788694298663253562
+      retina_black_26: 4729731722459112137
+      retina_black_27: 211768627480801749
+      retina_black_28: 4037391275202268257
+      retina_black_29: -3808314294452010252
+      retina_black_3: 1705004998933264008
+      retina_black_30: 8299515205652064597
+      retina_black_31: -221510601118140244
+      retina_black_32: -2097425914265459497
+      retina_black_33: 8517550134510047341
+      retina_black_34: -2118832700391703438
+      retina_black_35: 7083461791874487398
+      retina_black_36: -1575007468167938290
+      retina_black_37: -838898346748538389
+      retina_black_38: 6883927081113669250
+      retina_black_39: -2211750945879308410
+      retina_black_4: 631959244885127783
+      retina_black_40: 3005285704424143138
+      retina_black_41: 7075410343199344506
+      retina_black_42: 8974905450140086216
+      retina_black_43: 3862961188586784885
+      retina_black_44: -8601812228381969564
+      retina_black_45: -7983199197163891037
+      retina_black_46: -5846654991247846038
+      retina_black_47: 6112937192774518321
+      retina_black_48: -2803417949896396040
+      retina_black_49: 4313701861206422533
+      retina_black_5: 5755146974625496858
+      retina_black_50: 8061357211275860131
+      retina_black_51: -165899302780525419
+      retina_black_52: 8850533044685856348
+      retina_black_53: -5927733846104207742
+      retina_black_54: -3072121606845613227
+      retina_black_55: -765577549623344331
+      retina_black_56: -2470104884099622305
+      retina_black_57: -4866921478134354536
+      retina_black_58: 7592888812243244120
+      retina_black_59: 3955687111595064377
+      retina_black_6: 6735093562027848205
+      retina_black_60: 5907561376483294339
+      retina_black_61: 6241879928292078758
+      retina_black_62: -8677781294581237032
+      retina_black_63: -5166739882200309508
+      retina_black_64: 4788659592470975793
+      retina_black_65: -2781419599844583354
+      retina_black_66: 4284609942297600572
+      retina_black_67: 8887785814347711912
+      retina_black_68: 4879521138720762043
+      retina_black_69: 6698348624041216113
+      retina_black_7: 7668779209926091394
+      retina_black_70: -6733800650418106374
+      retina_black_71: -2731610892215668413
+      retina_black_72: -4481801791055281544
+      retina_black_73: -2509233255937497735
+      retina_black_74: -8475913426185414811
+      retina_black_75: 8646755695244745313
+      retina_black_76: -8433108829044568801
+      retina_black_77: 3146876767210700964
+      retina_black_78: -8075340174259798178
+      retina_black_79: -5074978242643528560
+      retina_black_8: 5094716422770081271
+      retina_black_80: -1257621853347150972
+      retina_black_81: -7038503930266315463
+      retina_black_82: -2122515015386857441
+      retina_black_83: -1220854885908864642
+      retina_black_84: 7154165898989704618
+      retina_black_9: 3598749506789083694
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

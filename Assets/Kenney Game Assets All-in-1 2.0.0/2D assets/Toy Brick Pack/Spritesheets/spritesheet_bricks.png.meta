@@ -411,6 +411,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2650,7 +2715,113 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spritesheet_bricks_0: 5110217792288886025
+      spritesheet_bricks_1: 5538753731703855186
+      spritesheet_bricks_10: -6650242547898454622
+      spritesheet_bricks_100: -2269422967752641144
+      spritesheet_bricks_101: -894806096586676319
+      spritesheet_bricks_102: 2623975156769093019
+      spritesheet_bricks_103: -3513668790031509113
+      spritesheet_bricks_104: 4907994926903807275
+      spritesheet_bricks_105: -7164229389404925623
+      spritesheet_bricks_11: -1672123405110894665
+      spritesheet_bricks_12: -4330288132346147502
+      spritesheet_bricks_13: 4291452123882220715
+      spritesheet_bricks_14: 6903034981556129433
+      spritesheet_bricks_15: 7194352456582595369
+      spritesheet_bricks_16: 6833964639600453128
+      spritesheet_bricks_17: -5205872046818227553
+      spritesheet_bricks_18: -6711527708181181674
+      spritesheet_bricks_19: 8949374072833638490
+      spritesheet_bricks_2: -7332513870454798438
+      spritesheet_bricks_20: -2735473196060530910
+      spritesheet_bricks_21: 5795875121768159958
+      spritesheet_bricks_22: 7732777404321418638
+      spritesheet_bricks_23: 6613722442328228114
+      spritesheet_bricks_24: -8599936765426005918
+      spritesheet_bricks_25: -1660070171815761315
+      spritesheet_bricks_26: -8374044902087779806
+      spritesheet_bricks_27: 3698350104403914504
+      spritesheet_bricks_28: 974286009488414546
+      spritesheet_bricks_29: -8939359462151044027
+      spritesheet_bricks_3: -5743217609390112594
+      spritesheet_bricks_30: -6387391915485613193
+      spritesheet_bricks_31: -8572956889415624697
+      spritesheet_bricks_32: -2008727519993304242
+      spritesheet_bricks_33: -5756944440146174623
+      spritesheet_bricks_34: 8839532039600441949
+      spritesheet_bricks_35: 6485541625949928585
+      spritesheet_bricks_36: -7415581230180652887
+      spritesheet_bricks_37: 1382752601432398439
+      spritesheet_bricks_38: 8476826145828606500
+      spritesheet_bricks_39: -2123996270627261567
+      spritesheet_bricks_4: 2054642578953441103
+      spritesheet_bricks_40: -7155291128390632894
+      spritesheet_bricks_41: -448038617495372225
+      spritesheet_bricks_42: 3483261395132025093
+      spritesheet_bricks_43: -6762981465337793960
+      spritesheet_bricks_44: -3257135745616744060
+      spritesheet_bricks_45: 8997277107670433522
+      spritesheet_bricks_46: -1263870681217550172
+      spritesheet_bricks_47: 3072235032290483763
+      spritesheet_bricks_48: 5937398520982265392
+      spritesheet_bricks_49: -2413104813577224824
+      spritesheet_bricks_5: -1609182853972934307
+      spritesheet_bricks_50: -7637409497538675413
+      spritesheet_bricks_51: -2753341423039572531
+      spritesheet_bricks_52: 4371418091807765751
+      spritesheet_bricks_53: 6428360568046324772
+      spritesheet_bricks_54: -2115299925110229471
+      spritesheet_bricks_55: 7871211151784611968
+      spritesheet_bricks_56: -6028628700366701515
+      spritesheet_bricks_57: 6420790402668665993
+      spritesheet_bricks_58: 394843795622837545
+      spritesheet_bricks_59: 6207329752582431832
+      spritesheet_bricks_6: -8209299581911310060
+      spritesheet_bricks_60: 176329156645147194
+      spritesheet_bricks_61: -109816599584516574
+      spritesheet_bricks_62: -5996131124429606728
+      spritesheet_bricks_63: -7164161254746139711
+      spritesheet_bricks_64: 7443249502145601876
+      spritesheet_bricks_65: -791104863386246662
+      spritesheet_bricks_66: 5860474142481468627
+      spritesheet_bricks_67: 5443843489592910284
+      spritesheet_bricks_68: 2931019994594775332
+      spritesheet_bricks_69: 3244648811807312835
+      spritesheet_bricks_7: 2202196138914948987
+      spritesheet_bricks_70: 7645824165487937962
+      spritesheet_bricks_71: 6110427979499805701
+      spritesheet_bricks_72: -6253118371065361874
+      spritesheet_bricks_73: -2283782007028808868
+      spritesheet_bricks_74: -1229760582586429740
+      spritesheet_bricks_75: -7773848437892923098
+      spritesheet_bricks_76: -7046225296370334840
+      spritesheet_bricks_77: 5995031718278852308
+      spritesheet_bricks_78: -8845893992263523917
+      spritesheet_bricks_79: -2699178127433179755
+      spritesheet_bricks_8: 7777260574563472275
+      spritesheet_bricks_80: 7834473463112716779
+      spritesheet_bricks_81: 5932244013124015786
+      spritesheet_bricks_82: -5750835674933830772
+      spritesheet_bricks_83: -4669738170818218475
+      spritesheet_bricks_84: -4024646480838179070
+      spritesheet_bricks_85: 1970672107715101719
+      spritesheet_bricks_86: 8873064940440781882
+      spritesheet_bricks_87: -2208417922313218892
+      spritesheet_bricks_88: -7186680592121708664
+      spritesheet_bricks_89: 3435492480849003740
+      spritesheet_bricks_9: 3142096972634490155
+      spritesheet_bricks_90: 2864020455843793538
+      spritesheet_bricks_91: -2460505792977172405
+      spritesheet_bricks_92: -2138379100601270985
+      spritesheet_bricks_93: 8520677087713245346
+      spritesheet_bricks_94: 7858521441228758449
+      spritesheet_bricks_95: 7358348800257524932
+      spritesheet_bricks_96: -3567696490402273257
+      spritesheet_bricks_97: 6676588385545969239
+      spritesheet_bricks_98: 4666293004820493018
+      spritesheet_bricks_99: 2033632751711968072
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

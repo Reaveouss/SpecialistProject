@@ -165,6 +165,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -682,7 +747,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      xmasPack_spritesheet_0: -179106440089341469
+      xmasPack_spritesheet_1: -7030383118922378265
+      xmasPack_spritesheet_10: 2898712757286803285
+      xmasPack_spritesheet_11: 6215137315689690134
+      xmasPack_spritesheet_12: -2042950768267309289
+      xmasPack_spritesheet_13: -4725640067032636093
+      xmasPack_spritesheet_14: -5713041807090563643
+      xmasPack_spritesheet_15: 8346515695364757151
+      xmasPack_spritesheet_16: 7563651048485238226
+      xmasPack_spritesheet_17: -4620379129378346173
+      xmasPack_spritesheet_18: 1780587183875358889
+      xmasPack_spritesheet_19: 2686514857105656300
+      xmasPack_spritesheet_2: -7716489150333954751
+      xmasPack_spritesheet_20: -2865059519687116768
+      xmasPack_spritesheet_21: 1015162351553941553
+      xmasPack_spritesheet_22: 7298357099378998776
+      xmasPack_spritesheet_23: -5119078382633129261
+      xmasPack_spritesheet_3: -6375592313085601198
+      xmasPack_spritesheet_4: -306085122792502206
+      xmasPack_spritesheet_5: 3936424637359207930
+      xmasPack_spritesheet_6: -6291182536393288880
+      xmasPack_spritesheet_7: 7116833932055826162
+      xmasPack_spritesheet_8: 3265550387479361570
+      xmasPack_spritesheet_9: -4706020751390623451
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

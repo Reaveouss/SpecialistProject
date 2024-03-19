@@ -201,6 +201,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -970,7 +1035,43 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blockPack_packed_0: 140683399056369254
+      blockPack_packed_1: -4383935348548454689
+      blockPack_packed_10: 8153384598813182273
+      blockPack_packed_11: -7285527869085127976
+      blockPack_packed_12: 5401813167411880372
+      blockPack_packed_13: 3133392768173095786
+      blockPack_packed_14: -5654903868441195011
+      blockPack_packed_15: 2441280045841146445
+      blockPack_packed_16: 1928370513849946349
+      blockPack_packed_17: 3479564821199957275
+      blockPack_packed_18: -8583856618899424877
+      blockPack_packed_19: 646491237037493221
+      blockPack_packed_2: -9068080381551615001
+      blockPack_packed_20: -3738347497077222360
+      blockPack_packed_21: 4967830501270037808
+      blockPack_packed_22: -4736566081994341728
+      blockPack_packed_23: 5879275292493434986
+      blockPack_packed_24: 2395758003666956908
+      blockPack_packed_25: 2250227014143992001
+      blockPack_packed_26: 4186963246739545339
+      blockPack_packed_27: 4368637906593872199
+      blockPack_packed_28: -4577766640644680246
+      blockPack_packed_29: 7290014171390610651
+      blockPack_packed_3: 4480010790282273285
+      blockPack_packed_30: 4169959055231345558
+      blockPack_packed_31: 3107794055575048664
+      blockPack_packed_32: -8833699409972490771
+      blockPack_packed_33: -6934255202016670925
+      blockPack_packed_34: 5938141672406204829
+      blockPack_packed_35: -315860841664881316
+      blockPack_packed_4: 3537014593648816862
+      blockPack_packed_5: 5513020352657700846
+      blockPack_packed_6: 1424050007104851590
+      blockPack_packed_7: 1894410894832876277
+      blockPack_packed_8: -3135376044870190764
+      blockPack_packed_9: 8184299220876150521
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

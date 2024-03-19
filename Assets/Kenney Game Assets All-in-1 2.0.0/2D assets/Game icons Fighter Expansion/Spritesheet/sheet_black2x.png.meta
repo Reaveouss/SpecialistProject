@@ -222,6 +222,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1138,7 +1203,50 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sheet_black2x_0: 4610831543924070889
+      sheet_black2x_1: 9068676445157225168
+      sheet_black2x_10: 8594826091080997730
+      sheet_black2x_11: 2475659480052814479
+      sheet_black2x_12: -1063867292857098295
+      sheet_black2x_13: 4125874371968747288
+      sheet_black2x_14: -6460699705631649556
+      sheet_black2x_15: -3419221798541287675
+      sheet_black2x_16: -7324238611830465183
+      sheet_black2x_17: 8479831054567134493
+      sheet_black2x_18: -1393934000544827388
+      sheet_black2x_19: 5431992065381586461
+      sheet_black2x_2: 1035534976813895219
+      sheet_black2x_20: 6138235060276796002
+      sheet_black2x_21: 3442378338690507321
+      sheet_black2x_22: -4179619861167846807
+      sheet_black2x_23: -2896471996513609226
+      sheet_black2x_24: -5210985277296775384
+      sheet_black2x_25: -6601140450095581521
+      sheet_black2x_26: -7467063340555171044
+      sheet_black2x_27: 5001068032419020682
+      sheet_black2x_28: -2879501336460266586
+      sheet_black2x_29: -4425626650328724733
+      sheet_black2x_3: -2458868773236547990
+      sheet_black2x_30: -7965377287780274236
+      sheet_black2x_31: -5691938136737694438
+      sheet_black2x_32: -1739520746544820336
+      sheet_black2x_33: -6266835374072735755
+      sheet_black2x_34: 1678909017372441216
+      sheet_black2x_35: -5715488632515507675
+      sheet_black2x_36: 4246452179809465788
+      sheet_black2x_37: -4938516661549951868
+      sheet_black2x_38: -9014586510382169293
+      sheet_black2x_39: -4255568214768235197
+      sheet_black2x_4: 8702370113614735453
+      sheet_black2x_40: -1613365264567515113
+      sheet_black2x_41: -4941010800870631121
+      sheet_black2x_42: 4133069147620146767
+      sheet_black2x_5: 2900805566667253839
+      sheet_black2x_6: 3380032895078457927
+      sheet_black2x_7: -6564445850224024574
+      sheet_black2x_8: 1947345967234025383
+      sheet_black2x_9: -7730265259061465956
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

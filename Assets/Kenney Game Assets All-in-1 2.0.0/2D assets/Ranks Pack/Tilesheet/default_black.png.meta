@@ -336,6 +336,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2050,7 +2115,88 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      default_black_0: -1499491157865937311
+      default_black_1: 1044732686600152162
+      default_black_10: 8614482897957330832
+      default_black_11: -1798508964508615342
+      default_black_12: 7245349127068356897
+      default_black_13: -1189596668321020576
+      default_black_14: -5183777107956144113
+      default_black_15: 3341096316085316182
+      default_black_16: -1434931602166869503
+      default_black_17: -3749244053355295608
+      default_black_18: -767861167498081819
+      default_black_19: -6473506646257339246
+      default_black_2: 1398336670166950883
+      default_black_20: -6219174539773944218
+      default_black_21: -6334162639688516351
+      default_black_22: -42234396695059369
+      default_black_23: -305530465747858368
+      default_black_24: 1177427495003937980
+      default_black_25: 2344105531781878524
+      default_black_26: 6214811171063396651
+      default_black_27: -2956928699497888029
+      default_black_28: -8569887947750533727
+      default_black_29: -1606760288053043673
+      default_black_3: -663798527763354462
+      default_black_30: -5022038429685754042
+      default_black_31: -2892645284737861512
+      default_black_32: 998724253820680534
+      default_black_33: 1111434815330308275
+      default_black_34: 970591925907704984
+      default_black_35: -8804148078942821485
+      default_black_36: -8819130637710026503
+      default_black_37: 284237471130729773
+      default_black_38: -9026988299470324104
+      default_black_39: 1203775633874326524
+      default_black_4: -2206890715498916283
+      default_black_40: 5029574756658953094
+      default_black_41: -7522442202726627796
+      default_black_42: -9047531247081282558
+      default_black_43: 4759430049595173255
+      default_black_44: -1983390422446800746
+      default_black_45: -4840754720726508111
+      default_black_46: 1281010213194680741
+      default_black_47: -307292615833603600
+      default_black_48: -1327807687435644613
+      default_black_49: -6874577848654995962
+      default_black_5: -1398540526498520200
+      default_black_50: -2899473229598588166
+      default_black_51: -3558517902692002411
+      default_black_52: -6045119310124310146
+      default_black_53: 6020404424253558879
+      default_black_54: -1853436360667651288
+      default_black_55: -1957002176953131587
+      default_black_56: 3333475183066338377
+      default_black_57: 5134940088525577974
+      default_black_58: -6739155987596503336
+      default_black_59: -4697310204395453576
+      default_black_6: -1981079778669072758
+      default_black_60: -635842639357779779
+      default_black_61: 1395344992817533700
+      default_black_62: 4058876493311638569
+      default_black_63: -5003201962964055990
+      default_black_64: 3360767057513659172
+      default_black_65: -5397363540939987006
+      default_black_66: -6918105718050013630
+      default_black_67: 4696499882362594685
+      default_black_68: -6382171520963854746
+      default_black_69: 825284249811184898
+      default_black_7: -2711192751108248735
+      default_black_70: -699290833782321874
+      default_black_71: 4808618205226172905
+      default_black_72: -9122538447156256980
+      default_black_73: 42150405796229709
+      default_black_74: 7774671162650315930
+      default_black_75: -407360102999911283
+      default_black_76: -7602399980691088898
+      default_black_77: 8883484963512391849
+      default_black_78: 7364567408905613842
+      default_black_79: 9132223468718866946
+      default_black_8: -6624657169052088804
+      default_black_80: -6090032584534276554
+      default_black_9: -9127558805876043887
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

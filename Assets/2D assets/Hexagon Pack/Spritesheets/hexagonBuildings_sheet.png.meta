@@ -288,6 +288,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1666,7 +1731,72 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hexagonBuildings_sheet_0: -7306058884010409095
+      hexagonBuildings_sheet_1: 282158371560788967
+      hexagonBuildings_sheet_10: 2055401271352612120
+      hexagonBuildings_sheet_11: 6972307597784656492
+      hexagonBuildings_sheet_12: -2129212591493478211
+      hexagonBuildings_sheet_13: 6974150003180875174
+      hexagonBuildings_sheet_14: -1087542452650365752
+      hexagonBuildings_sheet_15: 4001121899218924988
+      hexagonBuildings_sheet_16: -3472325185686174850
+      hexagonBuildings_sheet_17: -1792351311021065604
+      hexagonBuildings_sheet_18: -7090461507286989723
+      hexagonBuildings_sheet_19: -8789071984190704398
+      hexagonBuildings_sheet_2: -6252243927117729944
+      hexagonBuildings_sheet_20: 7420787134498224300
+      hexagonBuildings_sheet_21: -7688031895214582240
+      hexagonBuildings_sheet_22: 3265781720241204713
+      hexagonBuildings_sheet_23: 6597303921050252641
+      hexagonBuildings_sheet_24: 2314177386821707393
+      hexagonBuildings_sheet_25: 6276366315200372106
+      hexagonBuildings_sheet_26: -1831864033865960502
+      hexagonBuildings_sheet_27: 7497328555976062231
+      hexagonBuildings_sheet_28: -6794770553153674157
+      hexagonBuildings_sheet_29: 61772079306857540
+      hexagonBuildings_sheet_3: 2586565198920093192
+      hexagonBuildings_sheet_30: -6416106798649485148
+      hexagonBuildings_sheet_31: 4417813274746769744
+      hexagonBuildings_sheet_32: 1913409017204554028
+      hexagonBuildings_sheet_33: 6578841851090546308
+      hexagonBuildings_sheet_34: 4924980084508902920
+      hexagonBuildings_sheet_35: 5956240020424462760
+      hexagonBuildings_sheet_36: -904003340246153346
+      hexagonBuildings_sheet_37: 3473686571238046254
+      hexagonBuildings_sheet_38: 7919593848411493408
+      hexagonBuildings_sheet_39: 4565128565128547715
+      hexagonBuildings_sheet_4: 1311236649004329929
+      hexagonBuildings_sheet_40: -7928500209238356258
+      hexagonBuildings_sheet_41: -5502519613296534238
+      hexagonBuildings_sheet_42: -7302881489515995099
+      hexagonBuildings_sheet_43: 6973907394132204439
+      hexagonBuildings_sheet_44: -2934832145441474411
+      hexagonBuildings_sheet_45: 9040112913798035998
+      hexagonBuildings_sheet_46: 3378482216160545505
+      hexagonBuildings_sheet_47: 311419213660452643
+      hexagonBuildings_sheet_48: 3632993931124911444
+      hexagonBuildings_sheet_49: -293961613290309319
+      hexagonBuildings_sheet_5: -3692672338589877621
+      hexagonBuildings_sheet_50: -318706460628023284
+      hexagonBuildings_sheet_51: -7801543587128461615
+      hexagonBuildings_sheet_52: 8314953169907528173
+      hexagonBuildings_sheet_53: 4681821998409289665
+      hexagonBuildings_sheet_54: 5488584129534275910
+      hexagonBuildings_sheet_55: -3653378676557776797
+      hexagonBuildings_sheet_56: -4874049559406745409
+      hexagonBuildings_sheet_57: -6624456566129380888
+      hexagonBuildings_sheet_58: -5803068179718186085
+      hexagonBuildings_sheet_59: -363611963443968242
+      hexagonBuildings_sheet_6: 7788031200393283842
+      hexagonBuildings_sheet_60: 3531961460065977006
+      hexagonBuildings_sheet_61: 8768451920636497929
+      hexagonBuildings_sheet_62: 5916920769156425002
+      hexagonBuildings_sheet_63: 7851530942945731759
+      hexagonBuildings_sheet_64: -4650742973120228778
+      hexagonBuildings_sheet_7: -7280743917695458249
+      hexagonBuildings_sheet_8: -2478219828953247822
+      hexagonBuildings_sheet_9: -702098892758482872
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

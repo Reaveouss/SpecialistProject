@@ -477,6 +477,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -3178,7 +3243,135 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sheet_facialHair_0: 2457743719027220695
+      sheet_facialHair_1: 8383159446632992262
+      sheet_facialHair_10: 5735755639522741978
+      sheet_facialHair_100: 3654454979442002248
+      sheet_facialHair_101: -8520642449800668735
+      sheet_facialHair_102: 7584532205885867885
+      sheet_facialHair_103: 5492350666469605875
+      sheet_facialHair_104: -4583123700728825042
+      sheet_facialHair_105: 8003080835744669370
+      sheet_facialHair_106: 7605906117989135426
+      sheet_facialHair_107: -2658462878161291633
+      sheet_facialHair_108: -8784653974305501233
+      sheet_facialHair_109: -290485221789344812
+      sheet_facialHair_11: -1173462865069063282
+      sheet_facialHair_110: -724454419651935061
+      sheet_facialHair_111: -926690626356171799
+      sheet_facialHair_112: -1088761216091457027
+      sheet_facialHair_113: 7763549308076536742
+      sheet_facialHair_114: 1326986189243978109
+      sheet_facialHair_115: -5969274988775464455
+      sheet_facialHair_116: 5871901983081802981
+      sheet_facialHair_117: -648605657991780468
+      sheet_facialHair_118: -1141302605380042318
+      sheet_facialHair_119: -8829153435433166762
+      sheet_facialHair_12: -776285172253291254
+      sheet_facialHair_120: 214222348273742324
+      sheet_facialHair_121: -2831303081002967709
+      sheet_facialHair_122: 6940343250169523035
+      sheet_facialHair_123: -5456528912860657280
+      sheet_facialHair_124: -4375128515979749621
+      sheet_facialHair_125: -2972194844321928885
+      sheet_facialHair_126: 5296393668936239793
+      sheet_facialHair_127: 8160488162447248445
+      sheet_facialHair_13: -5855212520191596796
+      sheet_facialHair_14: 4546657270267158215
+      sheet_facialHair_15: -8486620236254210702
+      sheet_facialHair_16: -3830941102637971449
+      sheet_facialHair_17: -8763013037189193751
+      sheet_facialHair_18: -6494184897709326085
+      sheet_facialHair_19: -8406594056614717105
+      sheet_facialHair_2: -7495591155197376775
+      sheet_facialHair_20: 6905653343678804118
+      sheet_facialHair_21: 5419177474804756000
+      sheet_facialHair_22: 2404179523808878370
+      sheet_facialHair_23: -8816657035369519612
+      sheet_facialHair_24: -8129496275451710334
+      sheet_facialHair_25: 8027877518376529316
+      sheet_facialHair_26: 7378501688416070458
+      sheet_facialHair_27: 1725249943511866947
+      sheet_facialHair_28: 5188863820052040863
+      sheet_facialHair_29: 250882660123840408
+      sheet_facialHair_3: 5898241152104224970
+      sheet_facialHair_30: 4658609448691958138
+      sheet_facialHair_31: 5773022016534365262
+      sheet_facialHair_32: -1847672026308236741
+      sheet_facialHair_33: -3859567598194247790
+      sheet_facialHair_34: -1891737866947541100
+      sheet_facialHair_35: 3921519120469665594
+      sheet_facialHair_36: -7522108606639844369
+      sheet_facialHair_37: 5107344269897521365
+      sheet_facialHair_38: 6007949617291624746
+      sheet_facialHair_39: 4514608809136580862
+      sheet_facialHair_4: 862823523668109547
+      sheet_facialHair_40: -4861383297961798437
+      sheet_facialHair_41: -6004295694436018586
+      sheet_facialHair_42: -6383095519150868054
+      sheet_facialHair_43: -3413368046684704605
+      sheet_facialHair_44: -845250482000759124
+      sheet_facialHair_45: 1274963196869832496
+      sheet_facialHair_46: -2241806331696246521
+      sheet_facialHair_47: -1809876481598879035
+      sheet_facialHair_48: -6978897359085229123
+      sheet_facialHair_49: 6089944259762356401
+      sheet_facialHair_5: -6592348188404954993
+      sheet_facialHair_50: 3648774582472411202
+      sheet_facialHair_51: -4917911588709089148
+      sheet_facialHair_52: -8269020124971914104
+      sheet_facialHair_53: 4930254934910634952
+      sheet_facialHair_54: 1447093161759408160
+      sheet_facialHair_55: -1783765893820808126
+      sheet_facialHair_56: -686411183303660252
+      sheet_facialHair_57: 7692583756835152905
+      sheet_facialHair_58: -6148991081530937409
+      sheet_facialHair_59: 4380921424790707100
+      sheet_facialHair_6: -7699193109395427480
+      sheet_facialHair_60: -4688864842968830231
+      sheet_facialHair_61: -2703633892917701579
+      sheet_facialHair_62: -7761851232165673452
+      sheet_facialHair_63: 6142695158267375534
+      sheet_facialHair_64: 9077041494236019241
+      sheet_facialHair_65: -2267359485876129071
+      sheet_facialHair_66: 3310570315892113615
+      sheet_facialHair_67: 4792945856034396047
+      sheet_facialHair_68: -3541872340074720545
+      sheet_facialHair_69: 7092500882818179528
+      sheet_facialHair_7: -6655728852495223880
+      sheet_facialHair_70: -6055487935470290686
+      sheet_facialHair_71: -7691038237587775880
+      sheet_facialHair_72: 4202267592255515224
+      sheet_facialHair_73: -3232316656988048739
+      sheet_facialHair_74: -1461068851966850012
+      sheet_facialHair_75: 6574482401129170503
+      sheet_facialHair_76: 2964053571617252680
+      sheet_facialHair_77: 5688260487131089806
+      sheet_facialHair_78: 5841056466536349615
+      sheet_facialHair_79: -1961570979665973432
+      sheet_facialHair_8: -7778094444424387338
+      sheet_facialHair_80: -5045530682259755515
+      sheet_facialHair_81: 1524360133316964999
+      sheet_facialHair_82: -2707557007854699459
+      sheet_facialHair_83: -4688869561946333900
+      sheet_facialHair_84: -2454864264309456713
+      sheet_facialHair_85: 7248597843818759196
+      sheet_facialHair_86: 7876444682757150603
+      sheet_facialHair_87: -3352351636464242677
+      sheet_facialHair_88: 4958631394735729533
+      sheet_facialHair_89: -1696069320193237317
+      sheet_facialHair_9: -3336884113745780883
+      sheet_facialHair_90: -2465968409294782717
+      sheet_facialHair_91: 7413682983964581514
+      sheet_facialHair_92: -6886799266828948811
+      sheet_facialHair_93: -755750823630045428
+      sheet_facialHair_94: -4619700483626759542
+      sheet_facialHair_95: -3429027885202065509
+      sheet_facialHair_96: -8868677024252405994
+      sheet_facialHair_97: 5753531420050231011
+      sheet_facialHair_98: 7911841745617885645
+      sheet_facialHair_99: 6169808719861510520
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

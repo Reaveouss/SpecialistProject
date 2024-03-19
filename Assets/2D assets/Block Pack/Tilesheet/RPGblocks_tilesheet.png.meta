@@ -276,6 +276,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1570,7 +1635,68 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RPGblocks_tilesheet_0: -6638729097876994711
+      RPGblocks_tilesheet_1: 6847647842031628328
+      RPGblocks_tilesheet_10: 878933215350302052
+      RPGblocks_tilesheet_11: -6113053848710390871
+      RPGblocks_tilesheet_12: -3950605428624679079
+      RPGblocks_tilesheet_13: -778432189402870184
+      RPGblocks_tilesheet_14: 8352044607525823881
+      RPGblocks_tilesheet_15: -2968079223820277929
+      RPGblocks_tilesheet_16: 6298603412297353386
+      RPGblocks_tilesheet_17: 2596701809797384384
+      RPGblocks_tilesheet_18: -738286392799437557
+      RPGblocks_tilesheet_19: -5867090879221397285
+      RPGblocks_tilesheet_2: 5687443936571402999
+      RPGblocks_tilesheet_20: -6568103043806075022
+      RPGblocks_tilesheet_21: -5153065560751562341
+      RPGblocks_tilesheet_22: 3235519091087297133
+      RPGblocks_tilesheet_23: -7260509831190136096
+      RPGblocks_tilesheet_24: 5216149177335318954
+      RPGblocks_tilesheet_25: -1355439131001760092
+      RPGblocks_tilesheet_26: 6934890355441026020
+      RPGblocks_tilesheet_27: 5567820720552091365
+      RPGblocks_tilesheet_28: -3744711008474773286
+      RPGblocks_tilesheet_29: 1884527809183732639
+      RPGblocks_tilesheet_3: -2269657606118998575
+      RPGblocks_tilesheet_30: 3302304728586849777
+      RPGblocks_tilesheet_31: -5512854088329049783
+      RPGblocks_tilesheet_32: -3646998751276480620
+      RPGblocks_tilesheet_33: 8513871681176539390
+      RPGblocks_tilesheet_34: -7141860178220840944
+      RPGblocks_tilesheet_35: -8247033498714468219
+      RPGblocks_tilesheet_36: -3830754685766194692
+      RPGblocks_tilesheet_37: 2137020033563131192
+      RPGblocks_tilesheet_38: -8947823400780229028
+      RPGblocks_tilesheet_39: 7937138329144667430
+      RPGblocks_tilesheet_4: -3484215400816447341
+      RPGblocks_tilesheet_40: 8240885070825816820
+      RPGblocks_tilesheet_41: -2037266909765077588
+      RPGblocks_tilesheet_42: 6710241246686490364
+      RPGblocks_tilesheet_43: 6709749439995680180
+      RPGblocks_tilesheet_44: -2929518510872690670
+      RPGblocks_tilesheet_45: 3232023056011780297
+      RPGblocks_tilesheet_46: -4718628734360679562
+      RPGblocks_tilesheet_47: -4799065844643198226
+      RPGblocks_tilesheet_48: -471965419629828162
+      RPGblocks_tilesheet_49: -9042914575195324792
+      RPGblocks_tilesheet_5: -3534893802622770472
+      RPGblocks_tilesheet_50: 6162352080985921057
+      RPGblocks_tilesheet_51: -6738648181543088175
+      RPGblocks_tilesheet_52: -2845157336757298355
+      RPGblocks_tilesheet_53: 2061098814096822136
+      RPGblocks_tilesheet_54: 7017230510175649809
+      RPGblocks_tilesheet_55: 8303632467607732638
+      RPGblocks_tilesheet_56: 9141797501791106434
+      RPGblocks_tilesheet_57: -7631585381882760988
+      RPGblocks_tilesheet_58: -4842672202998614144
+      RPGblocks_tilesheet_59: 7712596014452673123
+      RPGblocks_tilesheet_6: 6320381530559776933
+      RPGblocks_tilesheet_60: 5350824461379275124
+      RPGblocks_tilesheet_7: -5110037503922678322
+      RPGblocks_tilesheet_8: -6563568000751104328
+      RPGblocks_tilesheet_9: 6140141384925450456
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

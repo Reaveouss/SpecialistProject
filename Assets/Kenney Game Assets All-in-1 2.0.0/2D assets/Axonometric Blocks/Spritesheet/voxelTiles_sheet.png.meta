@@ -258,6 +258,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1426,7 +1491,62 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      voxelTiles_sheet_0: 8094733153844332652
+      voxelTiles_sheet_1: 2218292973437187279
+      voxelTiles_sheet_10: -1332261240223989538
+      voxelTiles_sheet_11: -8509473517873783430
+      voxelTiles_sheet_12: -6854546009679783354
+      voxelTiles_sheet_13: -8969984300494416492
+      voxelTiles_sheet_14: -1166503969792921812
+      voxelTiles_sheet_15: 8226833217449280329
+      voxelTiles_sheet_16: 1492135434443363185
+      voxelTiles_sheet_17: 1871909640939168353
+      voxelTiles_sheet_18: 2892644537235471852
+      voxelTiles_sheet_19: 5471080061327083609
+      voxelTiles_sheet_2: -7338807420201798477
+      voxelTiles_sheet_20: -2384678924020100514
+      voxelTiles_sheet_21: -4378378459487066322
+      voxelTiles_sheet_22: 199658628822852492
+      voxelTiles_sheet_23: -5636154738471542082
+      voxelTiles_sheet_24: 7193856856224116552
+      voxelTiles_sheet_25: 910089848912577639
+      voxelTiles_sheet_26: -2820363657436206391
+      voxelTiles_sheet_27: -6426711794186904841
+      voxelTiles_sheet_28: -864482049990023250
+      voxelTiles_sheet_29: 4673870732461245028
+      voxelTiles_sheet_3: -2319337464157366739
+      voxelTiles_sheet_30: -6062786980618104703
+      voxelTiles_sheet_31: 2255648017520506182
+      voxelTiles_sheet_32: -291164781197028013
+      voxelTiles_sheet_33: -1582558583791145476
+      voxelTiles_sheet_34: 1480886084643691269
+      voxelTiles_sheet_35: -5790403207894203016
+      voxelTiles_sheet_36: 1833600567088859871
+      voxelTiles_sheet_37: -878687407423111881
+      voxelTiles_sheet_38: -2379635755903967824
+      voxelTiles_sheet_39: -1825065751572821482
+      voxelTiles_sheet_4: -4736776358100722110
+      voxelTiles_sheet_40: -4720574826907338791
+      voxelTiles_sheet_41: -88274566184426619
+      voxelTiles_sheet_42: 7794520387665963331
+      voxelTiles_sheet_43: 8873701985776767000
+      voxelTiles_sheet_44: -6532181243619510771
+      voxelTiles_sheet_45: -7507164880359408959
+      voxelTiles_sheet_46: 8888461934813588252
+      voxelTiles_sheet_47: 2720440467750421268
+      voxelTiles_sheet_48: 7888986190130305456
+      voxelTiles_sheet_49: -1235124992554223894
+      voxelTiles_sheet_5: -421936526058416119
+      voxelTiles_sheet_50: 4902275020038898813
+      voxelTiles_sheet_51: 3601264812046137237
+      voxelTiles_sheet_52: 5247942129101984872
+      voxelTiles_sheet_53: 3141028032141817004
+      voxelTiles_sheet_54: 8001424360226707335
+      voxelTiles_sheet_6: 1935803467572476628
+      voxelTiles_sheet_7: 7338042717927918865
+      voxelTiles_sheet_8: -8190749180403810938
+      voxelTiles_sheet_9: 6858607498268776397
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

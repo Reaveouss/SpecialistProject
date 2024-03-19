@@ -231,6 +231,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1210,7 +1275,53 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spritesheet_objects_0: -1963170064062322923
+      spritesheet_objects_1: -7441721305116084003
+      spritesheet_objects_10: 9192336839678657444
+      spritesheet_objects_11: -6258649447075655655
+      spritesheet_objects_12: -1072988346349479296
+      spritesheet_objects_13: 1034522024048250014
+      spritesheet_objects_14: -8962653301279912057
+      spritesheet_objects_15: 2938958587731576343
+      spritesheet_objects_16: -6162844544407721658
+      spritesheet_objects_17: 8431200359771299406
+      spritesheet_objects_18: 950425709195116138
+      spritesheet_objects_19: -6457027338524005398
+      spritesheet_objects_2: 4014564585400384437
+      spritesheet_objects_20: -784528997882278574
+      spritesheet_objects_21: -4577866497271496571
+      spritesheet_objects_22: -6217328064162330875
+      spritesheet_objects_23: 548392410570586179
+      spritesheet_objects_24: 8707448484926296917
+      spritesheet_objects_25: 2945629743809139703
+      spritesheet_objects_26: -5465859227314707468
+      spritesheet_objects_27: -4754331359146005080
+      spritesheet_objects_28: 3261508225630761631
+      spritesheet_objects_29: -8843859002665302566
+      spritesheet_objects_3: 2933648782275904309
+      spritesheet_objects_30: -7422346346407108840
+      spritesheet_objects_31: -740110706761501646
+      spritesheet_objects_32: -1613916543781367278
+      spritesheet_objects_33: -7973268346699392150
+      spritesheet_objects_34: 1512819952969147343
+      spritesheet_objects_35: -2875476964659307485
+      spritesheet_objects_36: 6424565034143148718
+      spritesheet_objects_37: -3301655062815157857
+      spritesheet_objects_38: 5834441998820434162
+      spritesheet_objects_39: -5697155161525617293
+      spritesheet_objects_4: -5455527629863272557
+      spritesheet_objects_40: 5144250535099972900
+      spritesheet_objects_41: -8103915681034169413
+      spritesheet_objects_42: 7150764394425052029
+      spritesheet_objects_43: -222402145669092074
+      spritesheet_objects_44: -3841734804108933401
+      spritesheet_objects_45: 2912825320064352226
+      spritesheet_objects_5: 497195432642819603
+      spritesheet_objects_6: 8229641355625604961
+      spritesheet_objects_7: 6470072131604522498
+      spritesheet_objects_8: -8639519681449585239
+      spritesheet_objects_9: -5361015864263477289
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

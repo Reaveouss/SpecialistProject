@@ -222,6 +222,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1138,7 +1203,50 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      miniguide2_character_walk_0: 7333871852860848748
+      miniguide2_character_walk_1: -2414561998497743003
+      miniguide2_character_walk_10: 9158659215816702636
+      miniguide2_character_walk_11: -6787582550615780426
+      miniguide2_character_walk_12: -4836905397265594604
+      miniguide2_character_walk_13: -5760359218570606693
+      miniguide2_character_walk_14: 5715668216185743554
+      miniguide2_character_walk_15: -6522307020981908890
+      miniguide2_character_walk_16: -4275753744914654722
+      miniguide2_character_walk_17: 6566695960330550493
+      miniguide2_character_walk_18: -4901418867577956090
+      miniguide2_character_walk_19: -6375086372003684744
+      miniguide2_character_walk_2: -3533466163856921669
+      miniguide2_character_walk_20: 7317017275335571946
+      miniguide2_character_walk_21: 586080400557618514
+      miniguide2_character_walk_22: 5245895251406234723
+      miniguide2_character_walk_23: 503635188603392670
+      miniguide2_character_walk_24: -2899564649876513178
+      miniguide2_character_walk_25: -6848791126474211213
+      miniguide2_character_walk_26: 950711860635919524
+      miniguide2_character_walk_27: 1345723808105782083
+      miniguide2_character_walk_28: 5456472726318088125
+      miniguide2_character_walk_29: 4652132703307995725
+      miniguide2_character_walk_3: -2358834309611369641
+      miniguide2_character_walk_30: 3166521554101275899
+      miniguide2_character_walk_31: 9166501860346380510
+      miniguide2_character_walk_32: 6813953140007242179
+      miniguide2_character_walk_33: 5956921135232048508
+      miniguide2_character_walk_34: -1721686702439415859
+      miniguide2_character_walk_35: -6845007130206041961
+      miniguide2_character_walk_36: 4608163177159912701
+      miniguide2_character_walk_37: 7478310711714225257
+      miniguide2_character_walk_38: -1484484792353685424
+      miniguide2_character_walk_39: 831521318465040688
+      miniguide2_character_walk_4: -4017873044551331427
+      miniguide2_character_walk_40: -2484391772691732296
+      miniguide2_character_walk_41: -3140257717876780496
+      miniguide2_character_walk_42: -8121847645171140249
+      miniguide2_character_walk_5: -7598288386756163549
+      miniguide2_character_walk_6: 5925679260431604924
+      miniguide2_character_walk_7: 8179793525377646893
+      miniguide2_character_walk_8: 7018154772617392229
+      miniguide2_character_walk_9: 2131260581108207064
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

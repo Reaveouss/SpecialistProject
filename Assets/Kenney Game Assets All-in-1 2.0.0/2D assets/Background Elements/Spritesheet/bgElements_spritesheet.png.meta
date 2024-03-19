@@ -285,6 +285,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1642,7 +1707,71 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bgElements_spritesheet_0: 8315898189065512171
+      bgElements_spritesheet_1: -1406917323560603518
+      bgElements_spritesheet_10: 6656293423363353639
+      bgElements_spritesheet_11: -5845096545936085711
+      bgElements_spritesheet_12: -1326295324769717839
+      bgElements_spritesheet_13: 3678823270100222794
+      bgElements_spritesheet_14: -4815187050665692155
+      bgElements_spritesheet_15: 5596764637794518498
+      bgElements_spritesheet_16: -1555693355150401140
+      bgElements_spritesheet_17: -7858444698079355119
+      bgElements_spritesheet_18: -1163528277797569667
+      bgElements_spritesheet_19: -699565217088956972
+      bgElements_spritesheet_2: -6596642374276755423
+      bgElements_spritesheet_20: 8892311551909464581
+      bgElements_spritesheet_21: -8120061412150586183
+      bgElements_spritesheet_22: 2709008255638031623
+      bgElements_spritesheet_23: -6528362295636149075
+      bgElements_spritesheet_24: -388902864762540205
+      bgElements_spritesheet_25: -6411513071387872252
+      bgElements_spritesheet_26: -2315922696525465329
+      bgElements_spritesheet_27: -3167487185959978145
+      bgElements_spritesheet_28: -5029022449497220059
+      bgElements_spritesheet_29: -3204052216542051160
+      bgElements_spritesheet_3: 5353998201772948646
+      bgElements_spritesheet_30: -2821255810247586206
+      bgElements_spritesheet_31: 7778267018336956473
+      bgElements_spritesheet_32: 3236550895295997630
+      bgElements_spritesheet_33: 171508806308463097
+      bgElements_spritesheet_34: -8601003943529967310
+      bgElements_spritesheet_35: 1109918837401296428
+      bgElements_spritesheet_36: 97749726862590593
+      bgElements_spritesheet_37: -5125026503301072434
+      bgElements_spritesheet_38: 1654742997910060517
+      bgElements_spritesheet_39: 1342471568091750209
+      bgElements_spritesheet_4: 4368157084277560296
+      bgElements_spritesheet_40: -9015871109208526028
+      bgElements_spritesheet_41: 8880143062763646378
+      bgElements_spritesheet_42: -2518478051922126552
+      bgElements_spritesheet_43: 7371679289776572632
+      bgElements_spritesheet_44: -2615552937119813480
+      bgElements_spritesheet_45: -4698492064296428436
+      bgElements_spritesheet_46: -6420041352586485160
+      bgElements_spritesheet_47: 6723443592875178036
+      bgElements_spritesheet_48: -1274239118318617194
+      bgElements_spritesheet_49: -6868934002898801041
+      bgElements_spritesheet_5: 89747608700112695
+      bgElements_spritesheet_50: -6347309196243646471
+      bgElements_spritesheet_51: -4225955250860068436
+      bgElements_spritesheet_52: -7009529426728631716
+      bgElements_spritesheet_53: 2793984153651513573
+      bgElements_spritesheet_54: 7244807703996162027
+      bgElements_spritesheet_55: 1188965124304323481
+      bgElements_spritesheet_56: -3416037924058958367
+      bgElements_spritesheet_57: -1173574607717636772
+      bgElements_spritesheet_58: -3040732390162551280
+      bgElements_spritesheet_59: -6166039929025732400
+      bgElements_spritesheet_6: -3549639741420525483
+      bgElements_spritesheet_60: -2366889735825452272
+      bgElements_spritesheet_61: 8905690722386229717
+      bgElements_spritesheet_62: 5669331230539065907
+      bgElements_spritesheet_63: -4681239115711956472
+      bgElements_spritesheet_7: 7685787879131007117
+      bgElements_spritesheet_8: 2033994354737549422
+      bgElements_spritesheet_9: -3100769205323868486
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

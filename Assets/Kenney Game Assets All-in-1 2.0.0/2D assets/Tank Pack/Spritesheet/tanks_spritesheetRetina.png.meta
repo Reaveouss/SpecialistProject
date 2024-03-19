@@ -357,6 +357,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2218,7 +2283,95 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tanks_spritesheetRetina_0: 3889926751119362961
+      tanks_spritesheetRetina_1: -5081839233547989248
+      tanks_spritesheetRetina_10: 3472926253778884419
+      tanks_spritesheetRetina_11: 4168205966733465371
+      tanks_spritesheetRetina_12: -4730342957975323679
+      tanks_spritesheetRetina_13: -9108395484719442574
+      tanks_spritesheetRetina_14: -6715005282156002925
+      tanks_spritesheetRetina_15: 4433433580460934229
+      tanks_spritesheetRetina_16: -6831698931460805841
+      tanks_spritesheetRetina_17: -2019267259644291564
+      tanks_spritesheetRetina_18: 8555336778608708386
+      tanks_spritesheetRetina_19: -2028971835476022765
+      tanks_spritesheetRetina_2: -8157879531497340130
+      tanks_spritesheetRetina_20: -1632030908166520776
+      tanks_spritesheetRetina_21: 5144155379325231158
+      tanks_spritesheetRetina_22: 6555209138790213850
+      tanks_spritesheetRetina_23: 6098517209105273443
+      tanks_spritesheetRetina_24: 3807122773891793026
+      tanks_spritesheetRetina_25: -6400575690593570227
+      tanks_spritesheetRetina_26: 1172870859057711622
+      tanks_spritesheetRetina_27: -9105557609549119303
+      tanks_spritesheetRetina_28: -3245025503234244409
+      tanks_spritesheetRetina_29: -1320400095470527756
+      tanks_spritesheetRetina_3: 1087962903206657443
+      tanks_spritesheetRetina_30: 6579671327362550092
+      tanks_spritesheetRetina_31: -7701424117634864744
+      tanks_spritesheetRetina_32: -826231750376653288
+      tanks_spritesheetRetina_33: 6949993245254644132
+      tanks_spritesheetRetina_34: -120559468752799577
+      tanks_spritesheetRetina_35: -6670455242624349484
+      tanks_spritesheetRetina_36: 2276501345967918577
+      tanks_spritesheetRetina_37: -2882099359418135151
+      tanks_spritesheetRetina_38: -5580254331024027172
+      tanks_spritesheetRetina_39: -1344205044129508191
+      tanks_spritesheetRetina_4: 1432162731185458913
+      tanks_spritesheetRetina_40: 5067066270977469263
+      tanks_spritesheetRetina_41: 908235153688305387
+      tanks_spritesheetRetina_42: -8424597729469013244
+      tanks_spritesheetRetina_43: -2708358588567861374
+      tanks_spritesheetRetina_44: 5941360279917572040
+      tanks_spritesheetRetina_45: -6331666142955405099
+      tanks_spritesheetRetina_46: -3454954978590009445
+      tanks_spritesheetRetina_47: 6518651933228815678
+      tanks_spritesheetRetina_48: -6632574336374423114
+      tanks_spritesheetRetina_49: -5044517677442454185
+      tanks_spritesheetRetina_5: -4334911198945245542
+      tanks_spritesheetRetina_50: 5357047814894526234
+      tanks_spritesheetRetina_51: 8691289799585278984
+      tanks_spritesheetRetina_52: 1054849054917200824
+      tanks_spritesheetRetina_53: 4794920148264319384
+      tanks_spritesheetRetina_54: 4357299319802099866
+      tanks_spritesheetRetina_55: -7188121951697152018
+      tanks_spritesheetRetina_56: -394763222670525295
+      tanks_spritesheetRetina_57: 2790311867056892430
+      tanks_spritesheetRetina_58: 1304966407044898231
+      tanks_spritesheetRetina_59: -1459945441167046343
+      tanks_spritesheetRetina_6: -6860882692562927261
+      tanks_spritesheetRetina_60: -3492363371375723576
+      tanks_spritesheetRetina_61: -7149835258969124936
+      tanks_spritesheetRetina_62: 4301882543190444538
+      tanks_spritesheetRetina_63: -7208034701892444586
+      tanks_spritesheetRetina_64: -6620724234133133839
+      tanks_spritesheetRetina_65: -1838136215783486981
+      tanks_spritesheetRetina_66: -7691244022731885913
+      tanks_spritesheetRetina_67: 2877130277722892730
+      tanks_spritesheetRetina_68: -384185385837829724
+      tanks_spritesheetRetina_69: 5859647174794410495
+      tanks_spritesheetRetina_7: -2901876124070920732
+      tanks_spritesheetRetina_70: -8242421910871552682
+      tanks_spritesheetRetina_71: -1672693852605888827
+      tanks_spritesheetRetina_72: 4675290449451366112
+      tanks_spritesheetRetina_73: 8534599159479536917
+      tanks_spritesheetRetina_74: -1336130789410991202
+      tanks_spritesheetRetina_75: 7193683044333617628
+      tanks_spritesheetRetina_76: 6202125917450729375
+      tanks_spritesheetRetina_77: -6038469093480116163
+      tanks_spritesheetRetina_78: 7908249748041136343
+      tanks_spritesheetRetina_79: 4332293970771093083
+      tanks_spritesheetRetina_8: 2564567784110447629
+      tanks_spritesheetRetina_80: 2049594247479367149
+      tanks_spritesheetRetina_81: -8048275967879727213
+      tanks_spritesheetRetina_82: -6404286721656437441
+      tanks_spritesheetRetina_83: -2025071531265864926
+      tanks_spritesheetRetina_84: -1238524534658390908
+      tanks_spritesheetRetina_85: 4678154398744049606
+      tanks_spritesheetRetina_86: -2201879695669435149
+      tanks_spritesheetRetina_87: -2005454662868737711
+      tanks_spritesheetRetina_9: 849961754202031667
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

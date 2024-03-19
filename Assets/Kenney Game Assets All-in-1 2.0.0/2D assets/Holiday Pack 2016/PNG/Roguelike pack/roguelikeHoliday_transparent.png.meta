@@ -213,6 +213,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1066,7 +1131,47 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      roguelikeHoliday_transparent_0: 2144471111851529831
+      roguelikeHoliday_transparent_1: -8789587253867533291
+      roguelikeHoliday_transparent_10: -2141665292062943023
+      roguelikeHoliday_transparent_11: 6193459801520679869
+      roguelikeHoliday_transparent_12: -2300207870254282154
+      roguelikeHoliday_transparent_13: 7452559843240047292
+      roguelikeHoliday_transparent_14: 5257149805776645057
+      roguelikeHoliday_transparent_15: 2175294877079231603
+      roguelikeHoliday_transparent_16: -4838929849582268701
+      roguelikeHoliday_transparent_17: -4592253423459842008
+      roguelikeHoliday_transparent_18: -8340835208984763011
+      roguelikeHoliday_transparent_19: -7581241167976579090
+      roguelikeHoliday_transparent_2: 6329624626446229609
+      roguelikeHoliday_transparent_20: 4030687243893048672
+      roguelikeHoliday_transparent_21: -7172974019080115566
+      roguelikeHoliday_transparent_22: 4737531706498782307
+      roguelikeHoliday_transparent_23: -262012009493363051
+      roguelikeHoliday_transparent_24: -8813029926267323827
+      roguelikeHoliday_transparent_25: 566917928205817810
+      roguelikeHoliday_transparent_26: 812676471665340759
+      roguelikeHoliday_transparent_27: -3266342481777800007
+      roguelikeHoliday_transparent_28: 4439426460168588387
+      roguelikeHoliday_transparent_29: 2736061059593823993
+      roguelikeHoliday_transparent_3: 973763062294498938
+      roguelikeHoliday_transparent_30: 8932372283489424014
+      roguelikeHoliday_transparent_31: -254035015006324722
+      roguelikeHoliday_transparent_32: 5720031814459453195
+      roguelikeHoliday_transparent_33: 6220872794088878550
+      roguelikeHoliday_transparent_34: -942525475631379765
+      roguelikeHoliday_transparent_35: 5326796984059141472
+      roguelikeHoliday_transparent_36: 1751538101646358289
+      roguelikeHoliday_transparent_37: -1661482073575409041
+      roguelikeHoliday_transparent_38: -6142588205982156790
+      roguelikeHoliday_transparent_39: 5379364227119699379
+      roguelikeHoliday_transparent_4: -5538224462238141109
+      roguelikeHoliday_transparent_5: 1675337919957228400
+      roguelikeHoliday_transparent_6: 465541307818171665
+      roguelikeHoliday_transparent_7: -3777496860532796506
+      roguelikeHoliday_transparent_8: 1044780469151057580
+      roguelikeHoliday_transparent_9: 4031163540533214231
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

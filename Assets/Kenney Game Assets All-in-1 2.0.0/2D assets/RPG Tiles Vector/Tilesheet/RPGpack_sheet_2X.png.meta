@@ -237,6 +237,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1258,7 +1323,55 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RPGpack_sheet_2X_0: -7734982491206767719
+      RPGpack_sheet_2X_1: 2959264573439911128
+      RPGpack_sheet_2X_10: 8188552096846296682
+      RPGpack_sheet_2X_11: -2686127072214419125
+      RPGpack_sheet_2X_12: 8201929803251367323
+      RPGpack_sheet_2X_13: 7255348103370032011
+      RPGpack_sheet_2X_14: 8239636488706134566
+      RPGpack_sheet_2X_15: 1201106779754349745
+      RPGpack_sheet_2X_16: -290452973203662530
+      RPGpack_sheet_2X_17: -4709369412718394295
+      RPGpack_sheet_2X_18: -3093005984004621156
+      RPGpack_sheet_2X_19: -4013727577535449275
+      RPGpack_sheet_2X_2: 3133078232115609008
+      RPGpack_sheet_2X_20: 2124282688332536994
+      RPGpack_sheet_2X_21: -3433004936578724148
+      RPGpack_sheet_2X_22: 5295652125027097156
+      RPGpack_sheet_2X_23: -6827699098691875847
+      RPGpack_sheet_2X_24: 1345342471680341518
+      RPGpack_sheet_2X_25: -4646012142268161720
+      RPGpack_sheet_2X_26: -4714321333038661120
+      RPGpack_sheet_2X_27: -5958727673687040612
+      RPGpack_sheet_2X_28: -9160473921121822325
+      RPGpack_sheet_2X_29: -5965701681138143215
+      RPGpack_sheet_2X_3: -3823347328685465148
+      RPGpack_sheet_2X_30: 7485099067429196040
+      RPGpack_sheet_2X_31: -5956960670672727580
+      RPGpack_sheet_2X_32: 8185996500620245358
+      RPGpack_sheet_2X_33: 3408448016794531821
+      RPGpack_sheet_2X_34: -468139347304582542
+      RPGpack_sheet_2X_35: 132345228488285630
+      RPGpack_sheet_2X_36: 5536732836807464598
+      RPGpack_sheet_2X_37: 3188832223860103535
+      RPGpack_sheet_2X_38: -2980355926033225142
+      RPGpack_sheet_2X_39: 3299517498833997767
+      RPGpack_sheet_2X_4: -1879922639493720961
+      RPGpack_sheet_2X_40: 2961265803456480434
+      RPGpack_sheet_2X_41: -7300606158131206001
+      RPGpack_sheet_2X_42: 1561167042837272738
+      RPGpack_sheet_2X_43: 1943974952484824241
+      RPGpack_sheet_2X_44: -5489476071693164987
+      RPGpack_sheet_2X_45: 3139185996147420487
+      RPGpack_sheet_2X_46: -2814433362874650304
+      RPGpack_sheet_2X_47: -8281593394578179429
+      RPGpack_sheet_2X_5: 646766552197647374
+      RPGpack_sheet_2X_6: -1597801087133805465
+      RPGpack_sheet_2X_7: 8100969111997423080
+      RPGpack_sheet_2X_8: 8238018407217747061
+      RPGpack_sheet_2X_9: 5118439875678094570
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

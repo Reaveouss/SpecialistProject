@@ -222,6 +222,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1138,7 +1203,50 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sheet_white2x_0: 4050899197834454385
+      sheet_white2x_1: 3628109824336020743
+      sheet_white2x_10: -923691578334217881
+      sheet_white2x_11: 764195502549903100
+      sheet_white2x_12: 4642829387096828860
+      sheet_white2x_13: 120102536306880062
+      sheet_white2x_14: 2057508617555048170
+      sheet_white2x_15: 4244444055627963532
+      sheet_white2x_16: 607137125430716721
+      sheet_white2x_17: -3189298502725306168
+      sheet_white2x_18: 8543024714726346478
+      sheet_white2x_19: 6163184059788138200
+      sheet_white2x_2: 5285294579573078053
+      sheet_white2x_20: 396651513394628237
+      sheet_white2x_21: 8657607248455390787
+      sheet_white2x_22: 3111270206554356814
+      sheet_white2x_23: 1252090063900302044
+      sheet_white2x_24: -2861542368546785299
+      sheet_white2x_25: 7588518983924345168
+      sheet_white2x_26: 8432035519684057052
+      sheet_white2x_27: 2026917466459941682
+      sheet_white2x_28: 2397150650490384335
+      sheet_white2x_29: -1200427275783724005
+      sheet_white2x_3: 4964635284764557786
+      sheet_white2x_30: 561550467523495860
+      sheet_white2x_31: -2789201414582085655
+      sheet_white2x_32: 4724362014329431202
+      sheet_white2x_33: -5389518860701333494
+      sheet_white2x_34: -7105514973108234374
+      sheet_white2x_35: 1221971940966469167
+      sheet_white2x_36: -7668404348379362283
+      sheet_white2x_37: -3209285245605287696
+      sheet_white2x_38: -5407506169051849089
+      sheet_white2x_39: 1536401283024858575
+      sheet_white2x_4: -2756051974744590146
+      sheet_white2x_40: -8360213444618251679
+      sheet_white2x_41: 169795907466009067
+      sheet_white2x_42: 7221274014496838849
+      sheet_white2x_5: -6176048544804298481
+      sheet_white2x_6: -4747125512316219050
+      sheet_white2x_7: -352040738879612513
+      sheet_white2x_8: -1391779978125557386
+      sheet_white2x_9: 6798190698159203133
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

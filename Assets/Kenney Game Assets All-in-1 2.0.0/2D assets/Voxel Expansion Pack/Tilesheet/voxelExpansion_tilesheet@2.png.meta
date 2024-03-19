@@ -198,6 +198,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -946,7 +1011,42 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      voxelExpansion_tilesheet@2_0: -3062484196514072765
+      voxelExpansion_tilesheet@2_1: -3072730479190087253
+      voxelExpansion_tilesheet@2_10: -4352288331013102423
+      voxelExpansion_tilesheet@2_11: 8446681578345967390
+      voxelExpansion_tilesheet@2_12: 7503022394280236745
+      voxelExpansion_tilesheet@2_13: 8148778797010959044
+      voxelExpansion_tilesheet@2_14: -6993116206088746055
+      voxelExpansion_tilesheet@2_15: -3970808670207371255
+      voxelExpansion_tilesheet@2_16: -8785509863919926206
+      voxelExpansion_tilesheet@2_17: -3728529543160383330
+      voxelExpansion_tilesheet@2_18: -2995264212483905668
+      voxelExpansion_tilesheet@2_19: -2012635024016244279
+      voxelExpansion_tilesheet@2_2: 1559720691662982023
+      voxelExpansion_tilesheet@2_20: -3899377837184738624
+      voxelExpansion_tilesheet@2_21: -6507737171239148661
+      voxelExpansion_tilesheet@2_22: -6319614015681703293
+      voxelExpansion_tilesheet@2_23: 2118788262525694333
+      voxelExpansion_tilesheet@2_24: -5724858305781232613
+      voxelExpansion_tilesheet@2_25: -6322492877027362954
+      voxelExpansion_tilesheet@2_26: 5703758995369710936
+      voxelExpansion_tilesheet@2_27: 8486332319013965697
+      voxelExpansion_tilesheet@2_28: -1688675339306316257
+      voxelExpansion_tilesheet@2_29: 4959223556841018949
+      voxelExpansion_tilesheet@2_3: 7233443887146869970
+      voxelExpansion_tilesheet@2_30: 946346009056300752
+      voxelExpansion_tilesheet@2_31: 752660271850838154
+      voxelExpansion_tilesheet@2_32: -8285450297008640414
+      voxelExpansion_tilesheet@2_33: -8853049885354380051
+      voxelExpansion_tilesheet@2_34: -4517775081674143623
+      voxelExpansion_tilesheet@2_4: -344348437185998260
+      voxelExpansion_tilesheet@2_5: -8929854816627956591
+      voxelExpansion_tilesheet@2_6: -857519173160378806
+      voxelExpansion_tilesheet@2_7: 6351055537552139710
+      voxelExpansion_tilesheet@2_8: 3560054651124490444
+      voxelExpansion_tilesheet@2_9: 3665108968946598565
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

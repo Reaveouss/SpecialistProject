@@ -339,6 +339,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2074,7 +2139,89 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      interfacePack_32x_0: 2062035555320187119
+      interfacePack_32x_1: -7209227753337431528
+      interfacePack_32x_10: 7358162377340341062
+      interfacePack_32x_11: -445309765610163978
+      interfacePack_32x_12: -4193709065241456134
+      interfacePack_32x_13: 8486981519052511145
+      interfacePack_32x_14: 4553611981484063184
+      interfacePack_32x_15: 7586318815083458363
+      interfacePack_32x_16: -1833921733297793471
+      interfacePack_32x_17: 7541091719397315828
+      interfacePack_32x_18: 1215229644691726095
+      interfacePack_32x_19: -423524405744026703
+      interfacePack_32x_2: 4678988086764969532
+      interfacePack_32x_20: 6810834693653539345
+      interfacePack_32x_21: -1106710323476565993
+      interfacePack_32x_22: -2869564170065434008
+      interfacePack_32x_23: 1639282136601319133
+      interfacePack_32x_24: 1592976344597330368
+      interfacePack_32x_25: 1680964543566853936
+      interfacePack_32x_26: -3002291636238997875
+      interfacePack_32x_27: -2459160216300323647
+      interfacePack_32x_28: 7790703057180889707
+      interfacePack_32x_29: -2399794534841095830
+      interfacePack_32x_3: -8950831201272189458
+      interfacePack_32x_30: -4839708300107769796
+      interfacePack_32x_31: -2678176600355973863
+      interfacePack_32x_32: -756084130639220812
+      interfacePack_32x_33: -8682341899968363195
+      interfacePack_32x_34: -8726100092829295291
+      interfacePack_32x_35: -5601592402039825457
+      interfacePack_32x_36: -4719758941509685711
+      interfacePack_32x_37: 4286346844657837352
+      interfacePack_32x_38: 1702404660796452021
+      interfacePack_32x_39: 5344747926370315876
+      interfacePack_32x_4: 6706900842563929677
+      interfacePack_32x_40: -4963644863938558701
+      interfacePack_32x_41: -3162715363887424080
+      interfacePack_32x_42: -8371665782547350744
+      interfacePack_32x_43: 4784641980215700563
+      interfacePack_32x_44: -5788389652516578438
+      interfacePack_32x_45: -1380711988442233076
+      interfacePack_32x_46: -5069032961102438543
+      interfacePack_32x_47: 7668852736419296436
+      interfacePack_32x_48: 4811229599583268036
+      interfacePack_32x_49: 6489606369723359245
+      interfacePack_32x_5: -1526156303573780474
+      interfacePack_32x_50: -5487249316886050753
+      interfacePack_32x_51: -4676186597907007328
+      interfacePack_32x_52: 7367097983103006685
+      interfacePack_32x_53: 1852967705455789939
+      interfacePack_32x_54: 6545850595444313117
+      interfacePack_32x_55: -4367321295321986691
+      interfacePack_32x_56: 3571164538829524044
+      interfacePack_32x_57: -1797340716291553295
+      interfacePack_32x_58: 1825755556374037583
+      interfacePack_32x_59: -6487195796883521638
+      interfacePack_32x_6: -3461190942563846523
+      interfacePack_32x_60: -540770066428130384
+      interfacePack_32x_61: -5439210158719654187
+      interfacePack_32x_62: 1247708692978052004
+      interfacePack_32x_63: 7980739758526468501
+      interfacePack_32x_64: 4111291050549427016
+      interfacePack_32x_65: 2825327532371147735
+      interfacePack_32x_66: 7488565274073040113
+      interfacePack_32x_67: -8194331332134130453
+      interfacePack_32x_68: -1947437217701477584
+      interfacePack_32x_69: 8187913275470759241
+      interfacePack_32x_7: 6260426688263771004
+      interfacePack_32x_70: -207399335647478114
+      interfacePack_32x_71: -9178825823050201681
+      interfacePack_32x_72: -6314257432673617223
+      interfacePack_32x_73: -15345839301445170
+      interfacePack_32x_74: 5682840209132579823
+      interfacePack_32x_75: 8070579889291302031
+      interfacePack_32x_76: 2125412205413894498
+      interfacePack_32x_77: 6932354382330616882
+      interfacePack_32x_78: -8410648914386992949
+      interfacePack_32x_79: 767840697041026129
+      interfacePack_32x_8: -7713198139540503983
+      interfacePack_32x_80: -4889317127857673822
+      interfacePack_32x_81: 7393004804938148505
+      interfacePack_32x_9: -3024404671696536883
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -237,6 +237,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1258,7 +1323,55 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      platformerTiles_sheet_0: 847280013283961820
+      platformerTiles_sheet_1: 3586355201163894045
+      platformerTiles_sheet_10: -7868181227315769385
+      platformerTiles_sheet_11: -2156542447495720778
+      platformerTiles_sheet_12: 688345333540912909
+      platformerTiles_sheet_13: 2642915619806997604
+      platformerTiles_sheet_14: 8486931861731019534
+      platformerTiles_sheet_15: -6673453724593344278
+      platformerTiles_sheet_16: 5162015517139307920
+      platformerTiles_sheet_17: -2870954673544415416
+      platformerTiles_sheet_18: -8907665533133200886
+      platformerTiles_sheet_19: 4197401157776960150
+      platformerTiles_sheet_2: -844287572262356118
+      platformerTiles_sheet_20: -2099768550496364565
+      platformerTiles_sheet_21: 5850737777154042988
+      platformerTiles_sheet_22: 2235484714392069632
+      platformerTiles_sheet_23: -2898702607945094999
+      platformerTiles_sheet_24: 3392937060301092827
+      platformerTiles_sheet_25: 313610750369504087
+      platformerTiles_sheet_26: -8077191665107377511
+      platformerTiles_sheet_27: 5251619381593534592
+      platformerTiles_sheet_28: -6762408392546539448
+      platformerTiles_sheet_29: 6901982338752341959
+      platformerTiles_sheet_3: 3481403968483764647
+      platformerTiles_sheet_30: 2532962503635263886
+      platformerTiles_sheet_31: -2871136259129582336
+      platformerTiles_sheet_32: 815804712520484793
+      platformerTiles_sheet_33: -7927703699108775113
+      platformerTiles_sheet_34: 5757577258549415698
+      platformerTiles_sheet_35: 7240364114071641837
+      platformerTiles_sheet_36: -3810900077158577424
+      platformerTiles_sheet_37: -6177130320160116164
+      platformerTiles_sheet_38: -7919130662137764421
+      platformerTiles_sheet_39: 6168080718580720442
+      platformerTiles_sheet_4: -7726870975744953237
+      platformerTiles_sheet_40: -309885284791886899
+      platformerTiles_sheet_41: 2087015736554982218
+      platformerTiles_sheet_42: -2877894694007838158
+      platformerTiles_sheet_43: -2461537149775652172
+      platformerTiles_sheet_44: 6128589806117067561
+      platformerTiles_sheet_45: 3174539836076269053
+      platformerTiles_sheet_46: 8870530809476616713
+      platformerTiles_sheet_47: 368383438676117522
+      platformerTiles_sheet_5: 2196992520361456829
+      platformerTiles_sheet_6: 3070401136666052297
+      platformerTiles_sheet_7: -4456930511511705267
+      platformerTiles_sheet_8: 4669533768652310799
+      platformerTiles_sheet_9: 5317625368919426320
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
