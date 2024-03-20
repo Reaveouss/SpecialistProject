@@ -2,28 +2,21 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.Collections;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 public class EnemyMovement : MonoBehaviour
 {
     public GameObject Player;
-    Vector3 directionVector;
-    Rigidbody2D rigidbody;
-    float moveSpeed = 10f;
-    float rotateSpeed = 6f;
-    float turnAmount;
+    Rigidbody2D rigidbody1;
+    [SerializeField] float moveSpeed = 1f;
 
     private void Start()
     {
         Player = GameObject.FindWithTag("Player");
-        rigidbody = GetComponent<Rigidbody2D>();
-        transform.Rotate(Vector3.back, 180f);
+        rigidbody1 = GetComponent<Rigidbody2D>();
     }
     private void Update()
     {
-        directionVector = Player.transform.position - transform.position;
-        turnAmount = Mathf.Atan2(directionVector.y, directionVector.x) * Mathf.Rad2Deg;
-        turnAmount = Mathf.LerpAngle(rigidbody.rotation, turnAmount, rotateSpeed * Time.deltaTime);
-        rigidbody.rotation = turnAmount;
-        rigidbody.MovePosition(transform.position + (transform.right * moveSpeed * Time.deltaTime));
+        rigidbody1.velocity = (Player.transform.position - transform.position).normalized * moveSpeed;
     }
 }

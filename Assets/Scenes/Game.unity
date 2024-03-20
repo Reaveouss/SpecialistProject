@@ -394,6 +394,7 @@ MonoBehaviour:
   Enemy3: {fileID: 8491987608955522389, guid: fb99e41e76ba5d643bb87ba3528f8834, type: 3}
   Player: {fileID: 1124806300}
   spawnRadius: 20
+  PlayerRadius: 5
 --- !u!4 &1891663191
 Transform:
   m_ObjectHideFlags: 0
@@ -666,6 +667,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 576996096791626487, guid: 1fc74b405dd17704990d14657035fb90, type: 3}
+      propertyPath: moveSpeed
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 1816387926950109810, guid: 1fc74b405dd17704990d14657035fb90, type: 3}
       propertyPath: healthSlider
       value: 

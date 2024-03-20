@@ -13,6 +13,7 @@ public class EnemySpawning : MonoBehaviour
     [SerializeField] GameObject Enemy3;
     [SerializeField] GameObject Player;
     public int spawnRadius = 30;
+    public int PlayerRadius = 5;
     
     // Start is called before the first frame update
     void Start()
@@ -23,7 +24,7 @@ public class EnemySpawning : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     void SpawnEnemy(int amount)
