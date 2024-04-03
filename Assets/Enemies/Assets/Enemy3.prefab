@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 3108156729401338568}
   - component: {fileID: 4132640256504577561}
   - component: {fileID: 7854691398866172837}
+  - component: {fileID: -4727468660696152568}
   m_Layer: 0
   m_Name: Enemy3
   m_TagString: Enemy
@@ -31,7 +32,7 @@ Transform:
   m_GameObject: {fileID: 8491987608955522389}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 11.2703705, y: 6.137335, z: 0}
+  m_LocalPosition: {x: -5.750592, y: -15.547777, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -238,3 +239,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rawDamage: 1
   delayTimer: 0.2
+--- !u!114 &-4727468660696152568
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8491987608955522389}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e009fdba7ef72e4c8f1f93b0961783f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HitPoints: 0
+  MaxHitPoints: 100
+  EXP: {fileID: 3049568120839700217, guid: cc8a6784b27e2c444962f9e3cee51512, type: 3}

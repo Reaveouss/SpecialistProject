@@ -393,6 +393,7 @@ MonoBehaviour:
   Enemy2: {fileID: 2814637060510218109, guid: c46d5030e685b674aae82c635331f24b, type: 3}
   Enemy3: {fileID: 8491987608955522389, guid: fb99e41e76ba5d643bb87ba3528f8834, type: 3}
   Player: {fileID: 1124806300}
+  delayTimer: 1
   spawnRadius: 20
   PlayerRadius: 5
 --- !u!4 &1891663191
@@ -667,25 +668,13 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 576996096791626487, guid: 1fc74b405dd17704990d14657035fb90, type: 3}
-      propertyPath: moveSpeed
-      value: 5
-      objectReference: {fileID: 0}
     - target: {fileID: 1816387926950109810, guid: 1fc74b405dd17704990d14657035fb90, type: 3}
       propertyPath: healthSlider
       value: 
       objectReference: {fileID: 1500503852}
-    - target: {fileID: 2609654613442815071, guid: 1fc74b405dd17704990d14657035fb90, type: 3}
-      propertyPath: m_Size.x
-      value: 0.68
-      objectReference: {fileID: 0}
-    - target: {fileID: 2609654613442815071, guid: 1fc74b405dd17704990d14657035fb90, type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2609654613442815071, guid: 1fc74b405dd17704990d14657035fb90, type: 3}
-      propertyPath: m_Offset.x
-      value: 0
+    - target: {fileID: 4317548050697071457, guid: 1fc74b405dd17704990d14657035fb90, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4963156993889043799, guid: 1fc74b405dd17704990d14657035fb90, type: 3}
       propertyPath: m_LocalPosition.x
@@ -727,9 +716,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6770041985823181268, guid: 1fc74b405dd17704990d14657035fb90, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 6915785632306638731, guid: 1fc74b405dd17704990d14657035fb90, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915785632306638731, guid: 1fc74b405dd17704990d14657035fb90, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7243040053496616429, guid: 1fc74b405dd17704990d14657035fb90, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
