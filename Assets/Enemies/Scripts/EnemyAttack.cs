@@ -16,9 +16,9 @@ public class EnemyAttack : MonoBehaviour
     }
     bool attackReady()
     {
-        if (tick < delayTimer)
+        if (tick > delayTimer)
         {
-            tick += Time.deltaTime;
+            tick -= Time.deltaTime;
             return false;
         }
         return true;

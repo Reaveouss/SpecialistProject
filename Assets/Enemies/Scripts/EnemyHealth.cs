@@ -28,6 +28,6 @@ public class EnemyHealth : MonoBehaviour
         Instantiate(EXP);
         expSpawn = transform.position;
         EXP.transform.position = expSpawn;
-        Destroy(this);
+        Destroy(this.gameObject);
     }
 }

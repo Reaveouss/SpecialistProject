@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4501896096720826330}
   - component: {fileID: 4563092873532262882}
   - component: {fileID: 4403647552057287579}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: CurserArea
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27,7 +27,7 @@ Transform:
   m_GameObject: {fileID: 4317548050697071457}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.00049853325, y: -0.00229837, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -110,7 +110,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5012128325467616121}
   - component: {fileID: 7316347874191995116}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Curser
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -200,7 +200,8 @@ GameObject:
   - component: {fileID: 2609654613442815071}
   - component: {fileID: 576996096791626487}
   - component: {fileID: 1816387926950109810}
-  m_Layer: 0
+  - component: {fileID: -8559890054499412678}
+  m_Layer: 3
   m_Name: Player1
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -381,6 +382,22 @@ MonoBehaviour:
   HitPoints: 0
   MaxHitPoints: 100
   healthSlider: {fileID: 0}
+--- !u!114 &-8559890054499412678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6915785632306638731}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1466a2cba99eedd42ad7ba06e2004418, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  delayTimer: 0.5
+  Bullet: {fileID: 6506133013919786143, guid: 400d33a3d9b8dcf4f89c49f40d03a54b, type: 3}
+  Player: {fileID: 6915785632306638731}
+  Curser: {fileID: 5012128325467616121}
 --- !u!1 &7243040053496616429
 GameObject:
   m_ObjectHideFlags: 0
@@ -392,7 +409,7 @@ GameObject:
   - component: {fileID: 4562438867957829697}
   - component: {fileID: 385289314448578348}
   - component: {fileID: 2621044822624863091}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Main Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}

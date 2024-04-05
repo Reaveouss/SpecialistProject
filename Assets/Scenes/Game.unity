@@ -672,17 +672,13 @@ PrefabInstance:
       propertyPath: healthSlider
       value: 
       objectReference: {fileID: 1500503852}
-    - target: {fileID: 4317548050697071457, guid: 1fc74b405dd17704990d14657035fb90, type: 3}
-      propertyPath: m_Layer
-      value: 3
-      objectReference: {fileID: 0}
     - target: {fileID: 4963156993889043799, guid: 1fc74b405dd17704990d14657035fb90, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.0017124414
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4963156993889043799, guid: 1fc74b405dd17704990d14657035fb90, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.21212626
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4963156993889043799, guid: 1fc74b405dd17704990d14657035fb90, type: 3}
       propertyPath: m_LocalPosition.z
@@ -716,21 +712,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6770041985823181268, guid: 1fc74b405dd17704990d14657035fb90, type: 3}
-      propertyPath: m_Layer
-      value: 3
-      objectReference: {fileID: 0}
     - target: {fileID: 6915785632306638731, guid: 1fc74b405dd17704990d14657035fb90, type: 3}
       propertyPath: m_Name
       value: Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 6915785632306638731, guid: 1fc74b405dd17704990d14657035fb90, type: 3}
-      propertyPath: m_Layer
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 7243040053496616429, guid: 1fc74b405dd17704990d14657035fb90, type: 3}
-      propertyPath: m_Layer
-      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
