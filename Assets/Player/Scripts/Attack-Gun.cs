@@ -26,5 +26,5 @@ public class AttackGun : MonoBehaviour
             return true;
         }
         return false;
-    }
+    } 
 }

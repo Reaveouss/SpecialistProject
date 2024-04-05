@@ -200,6 +200,7 @@ GameObject:
   - component: {fileID: 2609654613442815071}
   - component: {fileID: 576996096791626487}
   - component: {fileID: 1816387926950109810}
+  - component: {fileID: 4780595794381832300}
   - component: {fileID: -8559890054499412678}
   m_Layer: 3
   m_Name: Player1
@@ -382,6 +383,22 @@ MonoBehaviour:
   HitPoints: 0
   MaxHitPoints: 100
   healthSlider: {fileID: 0}
+--- !u!114 &4780595794381832300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6915785632306638731}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d6d0bc55d345ab4f9a574f2513957fc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Exp: 0
+  ExpMax: 100
+  ExpMultiplier: 1.2
+  ExpSlider: {fileID: 0}
 --- !u!114 &-8559890054499412678
 MonoBehaviour:
   m_ObjectHideFlags: 0

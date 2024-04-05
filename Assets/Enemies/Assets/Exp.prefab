@@ -11,9 +11,10 @@ GameObject:
   - component: {fileID: 7439549689836629787}
   - component: {fileID: 8938954472932103285}
   - component: {fileID: 7842439007408821485}
+  - component: {fileID: 7779701575507110483}
   m_Layer: 0
   m_Name: Exp
-  m_TagString: Untagged
+  m_TagString: Exp
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 3049568120839700217}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 11.714932, y: -24.651524, z: 0}
+  m_LocalPosition: {x: 6.573711, y: -3.1515036, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -138,3 +139,16 @@ PolygonCollider2D:
       - {x: 0, y: -0.25}
       - {x: 0.5, y: 0}
   m_UseDelaunayMesh: 0
+--- !u!114 &7779701575507110483
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3049568120839700217}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be803a92e57e29d458e8352a6f072f47, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rawExp: 10
